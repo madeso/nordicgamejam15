@@ -1,5 +1,5 @@
 # nordicgamejam15
-A room with a view?
+A rööm with a view?
 
 ![screenshot of the game](http://parentpreviews.com/legacy-pics/pink_panther.jpg)
 
