@@ -220,9 +220,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 0}
-  flamable: 0
-  inDestructable: 0
-  fireParticles: {fileID: 0}
 --- !u!1 &712564145
 GameObject:
   m_ObjectHideFlags: 0
@@ -321,9 +318,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 0}
-  flamable: 0
-  inDestructable: 0
-  fireParticles: {fileID: 0}
 --- !u!1001 &875800206
 Prefab:
   m_ObjectHideFlags: 0
@@ -366,6 +360,10 @@ Prefab:
     - target: {fileID: 11494628, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
       propertyPath: PickupDistance
       value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 11494628, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
+      propertyPath: maxThrowForce
+      value: 50
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9d4133d5d30b644bd87802a347eaccbe, type: 2}
@@ -630,6 +628,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PickupDistance: 3
+  ThrowIncreaseSpeed: 20
+  maxThrowForce: 50
 --- !u!1 &1500639574
 GameObject:
   m_ObjectHideFlags: 0
