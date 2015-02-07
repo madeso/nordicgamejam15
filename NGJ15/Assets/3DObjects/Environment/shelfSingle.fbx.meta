@@ -1,58 +1,35 @@
 fileFormatVersion: 2
-guid: ff339a1153e8dc945afd1a55a42e5050
+guid: 32dc3f0ce2c72cb48832ca23451b30e5
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: pCube23
-    100002: pCube24
-    100004: pCube25
-    100006: pCube26
-    100008: pCube27
-    100010: pCube28
-    100012: pCube29
-    100014: pCube30
-    100016: pCube31
-    100018: pCube32
-    100020: //RootNode
-    100022: shelfRack
-    100024: transform34
-    100026: transform35
-    100028: transform36
-    100030: transform37
-    100032: transform38
-    100034: transform39
-    100036: transform40
-    100038: transform41
-    100040: transform42
-    100042: transform43
-    400000: pCube23
-    400002: pCube24
-    400004: pCube25
-    400006: pCube26
-    400008: pCube27
-    400010: pCube28
-    400012: pCube29
-    400014: pCube30
-    400016: pCube31
-    400018: pCube32
-    400020: //RootNode
-    400022: shelfRack
-    400024: transform34
-    400026: transform35
-    400028: transform36
-    400030: transform37
-    400032: transform38
-    400034: transform39
-    400036: transform40
-    400038: transform41
-    400040: transform42
-    400042: transform43
-    2300000: shelfRack
-    2300002: //RootNode
-    3300000: shelfRack
-    3300002: //RootNode
-    4300000: shelfRack
-    4300002: shelfBig
+    100000: pCube1
+    100002: pCube2
+    100004: pCube3
+    100006: pCube4
+    100008: pSphere1
+    100010: //RootNode
+    100012: shelfSingle
+    100014: transform1
+    100016: transform2
+    100018: transform3
+    100020: transform4
+    100022: transform5
+    400000: pCube1
+    400002: pCube2
+    400004: pCube3
+    400006: pCube4
+    400008: pSphere1
+    400010: //RootNode
+    400012: shelfSingle
+    400014: transform1
+    400016: transform2
+    400018: transform3
+    400020: transform4
+    400022: transform5
+    2300000: shelfSingle
+    3300000: shelfSingle
+    4300000: shelfSingle
     9500000: //RootNode
   materials:
     importMaterials: 1
