@@ -27,6 +27,10 @@ ModelImporter:
     100042: windowPanel
     100044: windowpanel
     100046: windowPanel 1
+    100048: pCube21
+    100050: pCube22
+    100052: transform32
+    100054: transform33
     400000: pCube1
     400002: pCube2
     400004: polySurface1
@@ -51,8 +55,14 @@ ModelImporter:
     400042: windowPanel
     400044: windowpanel
     400046: windowPanel 1
+    400048: pCube21
+    400050: pCube22
+    400052: transform32
+    400054: transform33
     2300000: windowPanel 1
+    2300002: windowPanel
     3300000: windowPanel 1
+    3300002: windowPanel
     4300000: windowPanel
     9500000: //RootNode
   materials:
