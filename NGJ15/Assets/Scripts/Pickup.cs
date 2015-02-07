@@ -26,6 +26,17 @@ public class Pickup : MonoBehaviour {
 		}
 	}
 
+	/// <summary>
+	/// negative = not throwing, positive 0-1 = throw charge
+	/// </summary>
+	/// <value>The throw percentage.</value>
+	public float ThrowPercentage {
+		get {
+			if( this.HasPickedUpItem == false ) return -1.0f;
+			else return (this.throwForce - minThrowForce )/ (maxThrowForce - this.minThrowForce);
+		}
+	}
+
 	// Use this for initialization
 	void Start () {
 		hand = this.transform.GetChild(0).gameObject;
