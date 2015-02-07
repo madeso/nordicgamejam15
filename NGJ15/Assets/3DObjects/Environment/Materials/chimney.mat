@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: lambert13
+  m_Name: chimney
   m_Shader: {fileID: 4800000, guid: 054a31a99d11e49d110086ba44295342, type: 3}
   m_ShaderKeywords: []
   m_CustomRenderQueue: -1
@@ -36,7 +36,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .0808823705, g: .0735734254, b: .0327097848, a: 1}
+        second: {r: .147058845, g: .131801113, b: .0464965478, a: 1}
       data:
         first:
           name: _OutlineColor

@@ -15,6 +15,7 @@ GameObject:
   - 114: {fileID: 11494746}
   - 54: {fileID: 5471510}
   - 65: {fileID: 6559320}
+  - 64: {fileID: 6400744}
   m_Layer: 0
   m_Name: Teddybear
   m_TagString: Untagged
@@ -49,6 +50,8 @@ GameObject:
   - 4: {fileID: 445444}
   - 33: {fileID: 3345436}
   - 23: {fileID: 2345436}
+  - 114: {fileID: 11414300}
+  - 64: {fileID: 6453078}
   m_Layer: 0
   m_Name: lightPartsBear
   m_TagString: Untagged
@@ -62,8 +65,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 145434}
-  m_LocalRotation: {x: 1.37607952e-08, y: -.656827092, z: 9.98778216e-09, w: .754041255}
-  m_LocalPosition: {x: 4.58900023, y: 1.20280814, z: -2.56299996}
+  m_LocalRotation: {x: 0, y: -.656827033, z: 0, w: .754041314}
+  m_LocalPosition: {x: -2.88100004, y: .915000021, z: 2.98200011}
   m_LocalScale: {x: 7.1333437, y: 7.1333437, z: 7.1333437}
   m_Children:
   - {fileID: 445444}
@@ -126,7 +129,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: ef59e3208e071774ea43036a8e35c395, type: 2}
+  - {fileID: 2100000, guid: 98e9fd702f090b1489bd6ba65882fcda, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -146,7 +149,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 0}
+  - {fileID: 2100000, guid: c09fbaba0c4149744ad60aff7df4e23f, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -190,6 +193,32 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!64 &6400744
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145434}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300000, guid: edb6bfcdab2b5cc49887dfe2d318e67f, type: 3}
+--- !u!64 &6453078
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145444}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300002, guid: edb6bfcdab2b5cc49887dfe2d318e67f, type: 3}
 --- !u!65 &6559320
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -202,6 +231,22 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: .0345414318, y: .0405029356, z: .0276210364}
   m_Center: {x: 0, y: -.00302392524, z: .00719091017}
+--- !u!114 &11414300
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FlameTimer: 0
+  CoalColor: {r: 0, g: 0, b: 0, a: 1}
+  SecondsToCoal: 3
+  BurnDamage: 1
+  SecondsBetweenDamage: 1
 --- !u!114 &11494746
 MonoBehaviour:
   m_ObjectHideFlags: 1
