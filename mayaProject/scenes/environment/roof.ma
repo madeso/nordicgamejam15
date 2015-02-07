@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: roof.ma
-//Last modified: Sat, Feb 07, 2015 01:37:47 AM
+//Last modified: Sat, Feb 07, 2015 01:57:50 AM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -12,12 +12,12 @@ fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Servi
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 108.54662564326448 81.409969232448447 108.54662564326455 ;
-	setAttr ".r" -type "double3" -27.938352729602379 44.999999999999972 -5.172681101354183e-014 ;
+	setAttr ".t" -type "double3" -688.42523291562384 632.44720403661086 1262.6611970282654 ;
+	setAttr ".r" -type "double3" -23.738352729603363 -28.600000000001572 9.0564246986485532e-016 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 173.75938238698424;
+	setAttr ".coi" 1571.0608090361825;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -65,8 +65,11 @@ createNode camera -s -n "sideShape" -p "side";
 	setAttr ".o" yes;
 createNode transform -n "pCube1";
 	setAttr ".s" -type "double3" 100 25 70 ;
-createNode transform -n "Roof" -p "pCube1";
-createNode mesh -n "RoofShape" -p "Roof";
+createNode transform -n "roof" -p "pCube1";
+	setAttr ".s" -type "double3" 10 1 10 ;
+	setAttr ".rp" -type "double3" 0 0.5 0 ;
+	setAttr ".sp" -type "double3" 0 0.5 0 ;
+createNode mesh -n "roofShape" -p "roof";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
 	setAttr ".vif" yes;
@@ -200,7 +203,7 @@ relationship "shadowLink" ":lightLinker1" "RoofSG.message" ":defaultLightSet.mes
 connectAttr "layerManager.dli[0]" "defaultLayer.id";
 connectAttr "renderLayerManager.rlmi[0]" "defaultRenderLayer.rlid";
 connectAttr "lambert2.oc" "RoofSG.ss";
-connectAttr "RoofShape.iog" "RoofSG.dsm" -na;
+connectAttr "roofShape.iog" "RoofSG.dsm" -na;
 connectAttr "RoofSG.msg" "materialInfo1.sg";
 connectAttr "lambert2.msg" "materialInfo1.m";
 connectAttr "RoofSG.pa" ":renderPartition.st" -na;

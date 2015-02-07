@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: Nail.ma
-//Last modified: Sat, Feb 07, 2015 01:42:36 AM
+//Last modified: Sat, Feb 07, 2015 02:10:59 AM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -12,12 +12,12 @@ fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Servi
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 28 21 28 ;
-	setAttr ".r" -type "double3" -27.938352729602379 44.999999999999972 -5.172681101354183e-014 ;
+	setAttr ".t" -type "double3" 39.232712485683066 10.801632971703409 34.104476652236386 ;
+	setAttr ".r" -type "double3" -11.738352729625692 -1030.9999999998627 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 44.82186966202994;
+	setAttr ".coi" 53.094221263316243;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -38,12 +38,12 @@ createNode camera -s -n "topShape" -p "top";
 	setAttr ".o" yes;
 createNode transform -s -n "front";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 0 0 100.1 ;
+	setAttr ".t" -type "double3" 1.3362659729002244 -0.018167765650747292 100.1 ;
 createNode camera -s -n "frontShape" -p "front";
 	setAttr -k off ".v" no;
 	setAttr ".rnd" no;
 	setAttr ".coi" 100.1;
-	setAttr ".ow" 30;
+	setAttr ".ow" 35.034404842714636;
 	setAttr ".imn" -type "string" "front";
 	setAttr ".den" -type "string" "front_depth";
 	setAttr ".man" -type "string" "front_mask";
@@ -63,9 +63,16 @@ createNode camera -s -n "sideShape" -p "side";
 	setAttr ".man" -type "string" "side_mask";
 	setAttr ".hc" -type "string" "viewSet -s %camera";
 	setAttr ".o" yes;
+createNode transform -n "pCube1";
+	setAttr ".s" -type "double3" 100 25 70 ;
+createNode transform -n "polySurface1" -p "pCube1";
+createNode transform -n "transform2" -p "polySurface1";
+	setAttr ".v" no;
+createNode transform -n "transform1" -p "pCube1";
+	setAttr ".v" no;
 createNode transform -n "nail";
-	setAttr ".t" -type "double3" 0 1.475419421758946 0 ;
-	setAttr ".s" -type "double3" 0.35750590586190212 0.35750590586190212 0.35750590586190212 ;
+	setAttr ".t" -type "double3" 0 4.6017190040408469 0 ;
+	setAttr ".s" -type "double3" 0.88812626092557201 0.88812626092557201 0.88812626092557201 ;
 createNode mesh -n "nailShape" -p "nail";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -100,27 +107,27 @@ createNode mesh -n "nailShape" -p "nail";
 		 24 33 0;
 	setAttr -s 128 ".n[0:127]" -type "float3"  -0.38268343 0 0.92387956 0
 		 0 1 0 0 1 -0.38268343 0 0.92387956 0 1 0 0 1 0 0 1 0 0 1 0 -0.38268343 0 -0.92387956
-		 0 0 -1 0 0 -1 -0.38268343 0 -0.92387956 0 -0.99999994 0 0 -1 0 0 -0.99999994 0 0
-		 -1 0 0.92387956 0 0.38268334 1 0 0 1 0 0 0.92387956 0 0.38268334 -1 0 0 -0.92387956
-		 0 0.38268334 -0.92387956 0 0.38268334 -1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -0.92387956
-		 0 -0.38268334 -1 0 0 -1 0 0 -0.92387956 0 -0.38268334 0 -1 0 0 -0.99999994 0 0 -1
-		 0 0 -0.99999994 0 1 0 0 1 0 0 0.92387956 0 -0.38268334 0.92387956 0 -0.38268334 0
-		 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 -1 0 0 -1 0.38268343 0 -0.92387956
-		 0.38268343 0 -0.92387956 0 -1 0 0 -0.99999994 0 0 -1 0 0 -0.99999994 0 0 -0.99999994
-		 0 0 -1 0 0 -0.99999994 0 0 -1 0 0 0 1 0 0 1 0.38268343 0 0.92387956 0.38268343 0
-		 0.92387956 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 2.404281e-008 0 -1 2.404281e-008 0 -1
-		 2.404281e-008 0 -1 2.404281e-008 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0
-		 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -2.404281e-008 0 -1 -2.404281e-008 0 -1 -2.404281e-008
-		 0 -1 -2.404281e-008 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 -0.38268283
-		 0 0.92387974 -0.38268283 0 0.92387974 -0.38268283 0 0.92387974 -0.38268283 0 0.92387974
-		 -0.92387974 0 0.38268283 -0.92387974 0 0.38268283 -0.92387974 0 0.38268283 -0.92387974
-		 0 0.38268283 -0.38268283 0 -0.92387974 -0.38268283 0 -0.92387974 -0.38268283 0 -0.92387974
-		 -0.38268283 0 -0.92387974 -0.92387974 0 -0.38268283 -0.92387974 0 -0.38268283 -0.92387974
-		 0 -0.38268283 -0.92387974 0 -0.38268283 0.38268283 0 -0.92387974 0.38268283 0 -0.92387974
-		 0.38268283 0 -0.92387974 0.38268283 0 -0.92387974 0.92387974 0 -0.38268283 0.92387974
-		 0 -0.38268283 0.92387974 0 -0.38268283 0.92387974 0 -0.38268283 0.92387974 0 0.38268283
-		 0.92387974 0 0.38268283 0.92387974 0 0.38268283 0.92387974 0 0.38268283 0.38268283
-		 0 0.92387974 0.38268283 0 0.92387974 0.38268283 0 0.92387974 0.38268283 0 0.92387974;
+		 0 0 -1 0 0 -1 -0.38268343 0 -0.92387956 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0.92387956 0
+		 0.38268334 1 0 0 1 0 0 0.92387956 0 0.38268334 -1 0 0 -0.92387956 0 0.38268334 -0.92387956
+		 0 0.38268334 -1 0 0 0 1 0 0 1 0 0 1 0 0 1 0 -0.92387956 0 -0.38268334 -1 0 0 -1 0
+		 0 -0.92387956 0 -0.38268334 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 0 1 0 0 0.92387956 0
+		 -0.38268334 0.92387956 0 -0.38268334 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0
+		 1 0 0 0 -1 0 0 -1 0.38268343 0 -0.92387956 0.38268343 0 -0.92387956 0 -1 0 0 -1 0
+		 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 0 1 0 0 1 0.38268343 0 0.92387956 0.38268343
+		 0 0.92387956 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 2.404281e-008 0 -1 2.404281e-008 0
+		 -1 2.404281e-008 0 -1 2.404281e-008 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1
+		 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 -2.404281e-008 0 -1 -2.404281e-008 0 -1
+		 -2.404281e-008 0 -1 -2.404281e-008 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 -1
+		 0 0 -1 0 -0.38268289 0 0.92387986 -0.38268289 0 0.92387986 -0.38268289 0 0.92387986
+		 -0.38268289 0 0.92387986 -0.92387986 0 0.38268289 -0.92387986 0 0.38268289 -0.92387986
+		 0 0.38268289 -0.92387986 0 0.38268289 -0.38268289 0 -0.92387986 -0.38268289 0 -0.92387986
+		 -0.38268289 0 -0.92387986 -0.38268289 0 -0.92387986 -0.92387986 0 -0.38268289 -0.92387986
+		 0 -0.38268289 -0.92387986 0 -0.38268289 -0.92387986 0 -0.38268289 0.38268289 0 -0.92387986
+		 0.38268289 0 -0.92387986 0.38268289 0 -0.92387986 0.38268289 0 -0.92387986 0.92387986
+		 0 -0.38268289 0.92387986 0 -0.38268289 0.92387986 0 -0.38268289 0.92387986 0 -0.38268289
+		 0.92387986 0 0.38268289 0.92387986 0 0.38268289 0.92387986 0 0.38268289 0.92387986
+		 0 0.38268289 0.38268289 0 0.92387986 0.38268289 0 0.92387986 0.38268289 0 0.92387986
+		 0.38268289 0 0.92387986;
 	setAttr -s 32 -ch 128 ".fc[0:31]" -type "polyFaces" 
 		f 4 0 1 2 3
 		mu 0 4 0 27 22 2
@@ -190,15 +197,15 @@ createNode mesh -n "nailShape" -p "nail";
 	setAttr ".cvd" -type "dataPolyComponent" Index_Data Vertex 0 ;
 	setAttr ".hfd" -type "dataPolyComponent" Index_Data Face 0 ;
 createNode lightLinker -s -n "lightLinker1";
-	setAttr -s 3 ".lnk";
-	setAttr -s 3 ".slnk";
+	setAttr -s 4 ".lnk";
+	setAttr -s 4 ".slnk";
 createNode displayLayerManager -n "layerManager";
 createNode displayLayer -n "defaultLayer";
 createNode renderLayerManager -n "renderLayerManager";
 createNode renderLayer -n "defaultRenderLayer";
 	setAttr ".g" yes;
 createNode lambert -n "lambert2";
-createNode shadingEngine -n "pCube1SG";
+createNode shadingEngine -n "FloorSG";
 	setAttr ".ihi" 0;
 	setAttr ".ro" yes;
 createNode materialInfo -n "materialInfo1";
@@ -267,14 +274,19 @@ createNode script -n "uiConfigurationScriptNode";
 createNode script -n "sceneConfigurationScriptNode";
 	setAttr ".b" -type "string" "playbackOptions -min 1 -max 120 -ast 1 -aet 200 ";
 	setAttr ".st" 6;
+createNode lambert -n "lambert3";
+createNode shadingEngine -n "nailSG";
+	setAttr ".ihi" 0;
+	setAttr ".ro" yes;
+createNode materialInfo -n "materialInfo2";
 select -ne :time1;
 	setAttr ".o" 1;
 	setAttr ".unw" 1;
 select -ne :renderPartition;
-	setAttr -s 3 ".st";
+	setAttr -s 4 ".st";
 select -ne :renderGlobalsList1;
 select -ne :defaultShaderList1;
-	setAttr -s 3 ".s";
+	setAttr -s 4 ".s";
 select -ne :postProcessList1;
 	setAttr -s 2 ".p";
 select -ne :defaultRenderingList1;
@@ -296,17 +308,24 @@ select -ne :defaultHardwareRenderGlobals;
 	setAttr ".res" -type "string" "ntsc_4d 646 485 1.333";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
-relationship "link" ":lightLinker1" "pCube1SG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "FloorSG.message" ":defaultLightSet.message";
+relationship "link" ":lightLinker1" "nailSG.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "shadowLink" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
-relationship "shadowLink" ":lightLinker1" "pCube1SG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "FloorSG.message" ":defaultLightSet.message";
+relationship "shadowLink" ":lightLinker1" "nailSG.message" ":defaultLightSet.message";
 connectAttr "layerManager.dli[0]" "defaultLayer.id";
 connectAttr "renderLayerManager.rlmi[0]" "defaultRenderLayer.rlid";
-connectAttr "lambert2.oc" "pCube1SG.ss";
-connectAttr "nailShape.iog" "pCube1SG.dsm" -na;
-connectAttr "pCube1SG.msg" "materialInfo1.sg";
+connectAttr "lambert2.oc" "FloorSG.ss";
+connectAttr "FloorSG.msg" "materialInfo1.sg";
 connectAttr "lambert2.msg" "materialInfo1.m";
-connectAttr "pCube1SG.pa" ":renderPartition.st" -na;
+connectAttr "lambert3.oc" "nailSG.ss";
+connectAttr "nailShape.iog" "nailSG.dsm" -na;
+connectAttr "nailSG.msg" "materialInfo2.sg";
+connectAttr "lambert3.msg" "materialInfo2.m";
+connectAttr "FloorSG.pa" ":renderPartition.st" -na;
+connectAttr "nailSG.pa" ":renderPartition.st" -na;
 connectAttr "lambert2.msg" ":defaultShaderList1.s" -na;
+connectAttr "lambert3.msg" ":defaultShaderList1.s" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 // End of Nail.ma

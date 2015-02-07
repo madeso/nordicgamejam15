@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: walls.ma
-//Last modified: Sat, Feb 07, 2015 01:38:57 AM
+//Last modified: Sat, Feb 07, 2015 01:55:51 AM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -12,12 +12,12 @@ fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Servi
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 108.54662564326448 81.409969232448447 108.54662564326455 ;
-	setAttr ".r" -type "double3" -27.938352729602379 44.999999999999972 -5.172681101354183e-014 ;
+	setAttr ".t" -type "double3" -448.66723425066181 981.55630239873346 770.88749188639849 ;
+	setAttr ".r" -type "double3" -47.738352729478571 -750.19999999989409 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 173.75938238698424;
+	setAttr ".coi" 1326.2814886047765;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -69,6 +69,10 @@ createNode transform -n "transform1" -p "pCube1";
 	setAttr ".v" no;
 createNode transform -n "polySurface1" -p "pCube1";
 createNode transform -n "Walls" -p "polySurface1";
+	setAttr ".s" -type "double3" 10 10 10 ;
+	setAttr ".rp" -type "double3" 0 -5 0 ;
+	setAttr ".sp" -type "double3" 0 -0.5 0 ;
+	setAttr ".spt" -type "double3" 0 -4.5 0 ;
 createNode mesh -n "WallsShape" -p "Walls";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;

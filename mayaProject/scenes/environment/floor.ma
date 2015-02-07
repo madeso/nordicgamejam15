@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: floor.ma
-//Last modified: Sat, Feb 07, 2015 01:36:21 AM
+//Last modified: Sat, Feb 07, 2015 01:58:06 AM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -67,6 +67,9 @@ createNode transform -n "pCube1";
 	setAttr ".s" -type "double3" 100 25 70 ;
 createNode transform -n "polySurface1" -p "pCube1";
 createNode transform -n "floor" -p "polySurface1";
+	setAttr ".s" -type "double3" 10 1 10 ;
+	setAttr ".rp" -type "double3" 0 -0.5 0 ;
+	setAttr ".sp" -type "double3" 0 -0.5 0 ;
 createNode mesh -n "floorShape" -p "floor";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
