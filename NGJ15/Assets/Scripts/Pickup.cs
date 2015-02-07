@@ -20,6 +20,8 @@ public class Pickup : MonoBehaviour {
 	private GameObject item;
 	private float throwForce = 0;
 
+	private Vector3 handpos; 
+
 	public bool HasPickedUpItem {
 		get {
 			return item != null;
@@ -40,6 +42,7 @@ public class Pickup : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		hand = this.transform.GetChild(0).gameObject;
+		handpos = hand.transform.position;
 	}
 	
 	// shouold be remade into two functions so that it looks nice and needs to disable some stuff when picking up and putting down Also i have to mone it out a bit from the character so that you can allways move forward
@@ -101,7 +104,8 @@ public class Pickup : MonoBehaviour {
 						item.rigidbody.useGravity = true;  //enables gravity
 						item.rigidbody.constraints = RigidbodyConstraints.None; //release all constrains
 						Physics.IgnoreCollision(item.collider, this.transform.parent.collider, false);
-						item.transform.parent = null; 		 // set it free!!!
+						item.transform.parent = null;		 // set it free!!!
+						hand.transform.position = handpos;
 		}
 	}
 
