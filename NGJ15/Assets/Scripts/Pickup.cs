@@ -40,12 +40,15 @@ public class Pickup : MonoBehaviour {
 			RaycastHit hit;
 			if (Physics.Raycast(transform.position, this.transform.forward, out hit, PickupDistance)) // sends a ray to find any object
 			{
+				Debug.Log(hit.transform.name);
 				if(hit.transform.GetComponent<Usable>() != null) // if we hit an object and it does not have a usable script on it, ignore it
 				{
 				hit.transform.parent = hand.transform; // move in as a child of hand
+				hit.transform.localPosition = Vector3.zero;
 				item = hand.transform.GetChild(0).gameObject;   // the object
-				hit.rigidbody.constraints = RigidbodyConstraints.FreezeAll; // freez rotation and position of the rigidbody
+				hit.rigidbody.constraints = RigidbodyConstraints.FreezeRotation; // freez rotation and position of the rigidbody
 				hit.rigidbody.useGravity = false;  // disable gravity so that we can lift it
+				Physics.IgnoreCollision(item.collider, this.transform.parent.collider, true);
 				}
 			}
 			Debug.DrawRay(transform.position, this.transform.forward*PickupDistance, Color.green, 1f); // debug ray for seeing the distance
@@ -65,6 +68,7 @@ public class Pickup : MonoBehaviour {
 		if (hand.transform.childCount != 0)
 		{
 			handsFull = true; //yes
+			item.rigidbody.velocity = Vector3.zero;
 		}
 		else
 		{
@@ -80,6 +84,7 @@ public class Pickup : MonoBehaviour {
 		{
 						item.rigidbody.useGravity = true;  //enables gravity
 						item.rigidbody.constraints = RigidbodyConstraints.None; //release all constrains
+						Physics.IgnoreCollision(item.collider, this.transform.parent.collider, false);
 						item.transform.parent = null; 		 // set it free!!!
 		}
 	}
