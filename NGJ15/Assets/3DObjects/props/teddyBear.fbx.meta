@@ -135,10 +135,12 @@ ModelImporter:
     2300002: bearDetails
     2300004: lightPartsBear
     2300006: teddyBear 1
+    2300008: //RootNode
     3300000: teddyBear
     3300002: bearDetails
     3300004: lightPartsBear
     3300006: teddyBear 1
+    3300008: //RootNode
     4300000: teddyBear
     4300002: lightPartsBear
     4300004: bearDetails

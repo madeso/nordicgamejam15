@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: table.ma
-//Last modified: Sat, Feb 07, 2015 02:36:31 PM
+//Last modified: Sun, Feb 08, 2015 12:04:03 AM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -11,12 +11,12 @@ fileInfo "cutIdentifier" "201405190330-916664";
 fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Service Pack 1 (Build 7601)\n";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -11.079662313281013 81.346981045649585 137.61691413958778 ;
-	setAttr ".r" -type "double3" -8.7383527296478611 -22.999999999994657 0 ;
+	setAttr ".t" -type "double3" 365.49395689128158 113.17106321797581 181.45739531179717 ;
+	setAttr ".r" -type "double3" -8.1383527296440779 -296.9999999999892 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 133.77356208611312;
+	setAttr ".coi" 368.36573584877948;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
