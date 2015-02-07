@@ -13,6 +13,7 @@ GameObject:
   - 114: {fileID: 11469250}
   - 54: {fileID: 5496746}
   - 64: {fileID: 6440972}
+  - 64: {fileID: 6428182}
   m_Layer: 0
   m_Name: key
   m_TagString: Untagged
@@ -26,8 +27,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 157902}
-  m_LocalRotation: {x: .239596784, y: .66994673, z: -.666311741, w: .223144338}
-  m_LocalPosition: {x: 4.19898129, y: 1.04355407, z: -1.40297687}
+  m_LocalRotation: {x: .239035428, y: .670802295, z: -.665478826, w: .223661125}
+  m_LocalPosition: {x: 4.19899988, y: 1.05400002, z: -1.403}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -44,7 +45,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 4f9cfbd9510dd44418e52f8ca6c3b536, type: 2}
+  - {fileID: 2100000, guid: e3e6d111542684448a86be2c43738f7e, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -74,6 +75,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!64 &6428182
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157902}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300000, guid: 8ef45986f5ab85f419bb65703f54bced, type: 3}
 --- !u!64 &6440972
 MeshCollider:
   m_ObjectHideFlags: 1
