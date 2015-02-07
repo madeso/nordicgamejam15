@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: goblet03.ma
-//Last modified: Sat, Feb 07, 2015 01:50:25 PM
+//Last modified: Sat, Feb 07, 2015 01:59:03 PM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -11,12 +11,12 @@ fileInfo "cutIdentifier" "201405190330-916664";
 fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Service Pack 1 (Build 7601)\n";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" -0.839691179675915 16.412954857049147 43.41483167472181 ;
-	setAttr ".r" -type "double3" -10.538352729619415 -3.3999999999994492 -4.9783794943576095e-017 ;
+	setAttr ".t" -type "double3" 0.92404013228844839 15.085069830375005 45.391044545098509 ;
+	setAttr ".r" -type "double3" -9.3383527296193627 -0.99999999999949729 0 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 44.550016853296583;
+	setAttr ".coi" 46.206220568239424;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -64,7 +64,8 @@ createNode camera -s -n "sideShape" -p "side";
 	setAttr ".hc" -type "string" "viewSet -s %camera";
 	setAttr ".o" yes;
 createNode transform -n "goblet03";
-	setAttr ".t" -type "double3" 0 12.5 0 ;
+	setAttr ".t" -type "double3" 0 10.083111731702791 0 ;
+	setAttr ".s" -type "double3" 0.81026642883850997 0.81026642883850997 0.81026642883850997 ;
 createNode mesh -n "goblet0Shape3" -p "goblet03";
 	setAttr -k off ".v";
 	setAttr ".vir" yes;
@@ -160,7 +161,7 @@ createNode polyExtrudeFace -n "polyExtrudeFace1";
 	setAttr ".ws" yes;
 	setAttr ".pvt" -type "float3" -0.0093836784 25 9.5367432e-007 ;
 	setAttr ".rs" 60721;
-	setAttr ".lt" -type "double3" 2.2204460492503131e-016 -8.048832599995314e-017 -4.362487194981064 ;
+	setAttr ".lt" -type "double3" 2.2204460492503131e-016 -8.0488325999953152e-017 -4.362487194981064 ;
 	setAttr ".c[0]"  0 1 1;
 	setAttr ".cbn" -type "double3" -3.4148435592651367 25 -3.4242162704467773 ;
 	setAttr ".cbx" -type "double3" 3.3960762023925781 25 3.4242181777954102 ;
@@ -858,7 +859,7 @@ createNode polySplitRing -n "polySplitRing1";
 	setAttr ".fq" yes;
 createNode polyTweak -n "polyTweak8";
 	setAttr ".uopa" yes;
-	setAttr -s 151 ".tk";
+	setAttr -s 150 ".tk";
 	setAttr ".tk[30]" -type "float3" 1.608439 -3.0790026 -0.72479212 ;
 	setAttr ".tk[31]" -type "float3" 1.1728995 -3.0790026 -1.324262 ;
 	setAttr ".tk[32]" -type "float3" 0.53118855 -3.0790026 -1.6947533 ;

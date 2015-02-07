@@ -1,6 +1,6 @@
 //Maya ASCII 2015 scene
 //Name: goblet05.ma
-//Last modified: Sat, Feb 07, 2015 01:55:08 PM
+//Last modified: Sat, Feb 07, 2015 01:59:54 PM
 //Codeset: 1252
 requires maya "2015";
 currentUnit -l centimeter -a degree -t film;
@@ -11,12 +11,12 @@ fileInfo "cutIdentifier" "201405190330-916664";
 fileInfo "osv" "Microsoft Windows 7 Home Premium Edition, 64-bit Windows 7 Service Pack 1 (Build 7601)\n";
 createNode transform -s -n "persp";
 	setAttr ".v" no;
-	setAttr ".t" -type "double3" 2.0667023120360066 49.3856508745694 32.04531378690065 ;
-	setAttr ".r" -type "double3" -48.338352729621626 2.2000000000005597 -9.9465648292798504e-017 ;
+	setAttr ".t" -type "double3" -0.08950559164455596 20.851467116576227 36.967989941668691 ;
+	setAttr ".r" -type "double3" -22.538352729621852 0.20000000000056373 6.2120587082209057e-018 ;
 createNode camera -s -n "perspShape" -p "persp";
 	setAttr -k off ".v" no;
 	setAttr ".fl" 34.999999999999993;
-	setAttr ".coi" 46.206220568239722;
+	setAttr ".coi" 38.615229788065619;
 	setAttr ".imn" -type "string" "persp";
 	setAttr ".den" -type "string" "persp_depth";
 	setAttr ".man" -type "string" "persp_mask";
@@ -64,7 +64,8 @@ createNode camera -s -n "sideShape" -p "side";
 	setAttr ".hc" -type "string" "viewSet -s %camera";
 	setAttr ".o" yes;
 createNode transform -n "goblet05";
-	setAttr ".t" -type "double3" 0 12.5 0 ;
+	setAttr ".t" -type "double3" 0 10.75236775031334 0 ;
+	setAttr ".s" -type "double3" 0.68879226694113116 0.68879226694113116 0.68879226694113116 ;
 	setAttr ".rp" -type "double3" 0.0011067390441894531 -7.2810604572296143 -0.0062261819839477539 ;
 	setAttr ".sp" -type "double3" 0.0011067390441894531 -7.2810604572296143 -0.0062261819839477539 ;
 createNode mesh -n "goblet0Shape5" -p "goblet05";
@@ -218,7 +219,7 @@ createNode polyExtrudeFace -n "polyExtrudeFace1";
 	setAttr ".ws" yes;
 	setAttr ".pvt" -type "float3" -0.0093836784 25 9.5367432e-007 ;
 	setAttr ".rs" 60721;
-	setAttr ".lt" -type "double3" 2.2204460492503131e-016 -8.048832599995314e-017 -4.362487194981064 ;
+	setAttr ".lt" -type "double3" 2.2204460492503131e-016 -8.0488325999953152e-017 -4.362487194981064 ;
 	setAttr ".c[0]"  0 1 1;
 	setAttr ".cbn" -type "double3" -3.4148435592651367 25 -3.4242162704467773 ;
 	setAttr ".cbx" -type "double3" 3.3960762023925781 25 3.4242181777954102 ;
@@ -916,7 +917,7 @@ createNode polySplitRing -n "polySplitRing1";
 	setAttr ".fq" yes;
 createNode polyTweak -n "polyTweak8";
 	setAttr ".uopa" yes;
-	setAttr -s 151 ".tk";
+	setAttr -s 150 ".tk";
 	setAttr ".tk[30]" -type "float3" 1.608439 -3.0790026 -0.72479212 ;
 	setAttr ".tk[31]" -type "float3" 1.1728995 -3.0790026 -1.324262 ;
 	setAttr ".tk[32]" -type "float3" 0.53118855 -3.0790026 -1.6947533 ;
@@ -1587,8 +1588,6 @@ select -ne :hardwareRenderingGlobals;
 		 0 0 0 0 ;
 select -ne :defaultHardwareRenderGlobals;
 	setAttr ".res" -type "string" "ntsc_4d 646 485 1.333";
-select -ne :ikSystem;
-	setAttr -s 4 ".sol";
 connectAttr "polyNormalPerVertex4.out" "goblet0Shape5.i";
 relationship "link" ":lightLinker1" ":initialShadingGroup.message" ":defaultLightSet.message";
 relationship "link" ":lightLinker1" ":initialParticleSE.message" ":defaultLightSet.message";
