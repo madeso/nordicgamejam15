@@ -4,7 +4,7 @@ using System.Collections;
 public class Pickup : MonoBehaviour {
 	
 	[SerializeField]
-	private float PickupDistance = 10;
+	private float PickupDistance;
 
 	private GameObject hand;
 	private Camera camera;
@@ -18,7 +18,8 @@ public class Pickup : MonoBehaviour {
 	void Update () {
 		if(Input.GetMouseButtonDown (0) && hand.transform.childCount !=0)
 		{
-			//hand.transform.GetChild(0).rigidbody.useGravity = true;
+			hand.transform.GetChild(0).rigidbody.useGravity = true;
+			hand.transform.GetChild(0).rigidbody.isKinematic = false;
 			hand.transform.GetChild(0).parent = null;
 		}
 		if (Input.GetMouseButtonDown (0) && !handsFull) // get left mouse button down (only one frame)
@@ -27,9 +28,10 @@ public class Pickup : MonoBehaviour {
 			if (Physics.Raycast(transform.position, this.transform.forward, out hit, PickupDistance))
 			{
 				hit.transform.parent = hand.transform;
-				//hit.rigidbody.useGravity = false;
+				hit.rigidbody.useGravity = false;
+				hand.transform.GetChild(0).rigidbody.isKinematic = true;
 			}
-			Debug.DrawRay(transform.position, this.transform.forward, Color.green,PickupDistance);
+			Debug.DrawRay(transform.position, this.transform.forward*PickupDistance, Color.green,10.0f );
 		}
 
 
