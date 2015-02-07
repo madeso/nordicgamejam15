@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: bookPages
+  m_Name: bearDetails
   m_Shader: {fileID: 4800000, guid: 054a31a99d11e49d110086ba44295342, type: 3}
   m_ShaderKeywords: []
   m_CustomRenderQueue: -1
@@ -36,7 +36,7 @@ Material:
       data:
         first:
           name: _Color
-        second: {r: .718999982, g: .668169379, b: .545001984, a: 1}
+        second: {r: .0588235259, g: .0588235259, b: .0588235259, a: 1}
       data:
         first:
           name: _OutlineColor
