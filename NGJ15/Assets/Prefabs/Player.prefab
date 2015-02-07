@@ -104,8 +104,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.69099998, y: -.194999993, z: .115999997}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -9.4630003, y: .912, z: 3.43199992}
+  m_LocalScale: {x: .5, y: .5, z: .5}
   m_Children:
   - {fileID: 400000}
   - {fileID: 400004}
@@ -137,7 +137,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 157712}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .379999995, y: -.288083553, z: .721000016}
+  m_LocalPosition: {x: 1.02999997, y: -.730000019, z: 2.82999992}
   m_LocalScale: {x: .352908492, y: .352908462, z: .352908462}
   m_Children: []
   m_Father: {fileID: 400004}
@@ -160,7 +160,7 @@ Camera:
     height: 1
   near clip plane: .300000012
   far clip plane: 1000
-  field of view: 60
+  field of view: 35
   orthographic: 0
   orthographic size: 100
   m_Depth: 0
@@ -294,8 +294,8 @@ MonoBehaviour:
     maxFallSpeed: 20
   jumping:
     enabled: 1
-    baseHeight: 1
-    extraHeight: 1
+    baseHeight: .5
+    extraHeight: .5
     perpAmount: 0
     steepPerpAmount: .5
   movingPlatform:
@@ -368,9 +368,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96dcbb868f9701649bcc9d7fbfa60fe3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PickupDistance: 20
-  ThrowIncreaseSpeed: 20
-  maxThrowForce: 50
+  PickupDistance: 3
+  ThrowIncreaseSpeed: 10
+  maxThrowForce: 20
   minThrowForce: 1
 --- !u!124 &12400000
 Behaviour:

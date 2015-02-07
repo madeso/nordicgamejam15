@@ -37,7 +37,7 @@ public class Flamable : MonoBehaviour {
 	/// <summary>
 	/// Called when it should start burning
 	/// </summary>
-	private void StartBurning() {
+	public void StartBurning() {
 		Debug.Log(string.Format("{0}: started burning", this.gameObject.name));
 	}
 
@@ -91,7 +91,7 @@ public class Flamable : MonoBehaviour {
 		}
 	}
 
-	void Start () {
+	void OnEnable () {
 		this.startColor = this.gameObject.renderer.material.color;
 		this.timeUntilNextDamage = Random.Range(0, SecondsBetweenDamage); // randomize it
 		if( this.IsBurning ) {
