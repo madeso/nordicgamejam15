@@ -355,8 +355,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PickupDistance: 3
-  ThrowIncreaseSpeed: 10
-  maxThrowForce: 20
+  ThrowIncreaseSpeed: 5
+  maxThrowForce: 15
   minThrowForce: 1
 --- !u!124 &12400000
 Behaviour:
