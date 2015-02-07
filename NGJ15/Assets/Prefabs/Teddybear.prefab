@@ -63,7 +63,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 145434}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.15999985, y: .275000006, z: 4.46000004}
+  m_LocalPosition: {x: -15.6810551, y: .219585508, z: 3.86978793}
   m_LocalScale: {x: 7.1333437, y: 7.1333437, z: 7.1333437}
   m_Children:
   - {fileID: 445444}
@@ -208,7 +208,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 145434}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0d3d98370c6e64624ac254e9981a12b7, type: 3}
   m_Name: 
@@ -216,7 +216,7 @@ MonoBehaviour:
   Hitpoints: 5
   Parts:
   - {fileID: 0}
-  Fragility: 0
+  Fragility: 30
 --- !u!114 &11494748
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -236,7 +236,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 145434}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
   m_Name: 
