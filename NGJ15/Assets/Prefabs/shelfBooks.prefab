@@ -9,6 +9,8 @@ GameObject:
   m_Component:
   - 4: {fileID: 432770}
   - 95: {fileID: 9532770}
+  - 114: {fileID: 11495538}
+  - 64: {fileID: 6467346}
   m_Layer: 0
   m_Name: shelfBooks
   m_TagString: Untagged
@@ -85,6 +87,19 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 132800}
   m_Mesh: {fileID: 4300000, guid: 84de49b92bce76342b22b84d4bce7b24, type: 3}
+--- !u!64 &6467346
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132770}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 0}
 --- !u!95 &9532770
 Animator:
   serializedVersion: 3
@@ -100,6 +115,18 @@ Animator:
   m_ApplyRootMotion: 1
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11495538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 132770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44537926ea034174ea83f1a688d17cb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
