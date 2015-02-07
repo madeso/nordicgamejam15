@@ -1,22 +1,30 @@
 fileFormatVersion: 2
-guid: 3ed02c64669790d4ab68a0f1ca4f22e1
+guid: 6ce2a8bbb7d1bb24a89318e937e9cf4a
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: flashLight
-    100004: flashLightGlass1
+    100002: goblet5Shard1
+    100004: goblet5Shard2
+    100006: goblet5Shard3
+    100008: goblet5Shard4
     400000: //RootNode
-    400002: flashLight
-    400004: flashLightGlass1
-    2300000: //RootNode
-    2300002: flashLight
-    2300004: flashLightGlass1
-    3300000: //RootNode
-    3300002: flashLight
-    3300004: flashLightGlass1
-    4300000: flashLight
-    4300002: flashLightGlass1
+    400002: goblet5Shard1
+    400004: goblet5Shard2
+    400006: goblet5Shard3
+    400008: goblet5Shard4
+    2300000: goblet5Shard1
+    2300002: goblet5Shard2
+    2300004: goblet5Shard3
+    2300006: goblet5Shard4
+    3300000: goblet5Shard1
+    3300002: goblet5Shard2
+    3300004: goblet5Shard3
+    3300006: goblet5Shard4
+    4300000: goblet5Shard1
+    4300002: goblet5Shard2
+    4300004: goblet5Shard3
+    4300006: goblet5Shard4
     9500000: //RootNode
   materials:
     importMaterials: 1

@@ -1,22 +1,35 @@
 fileFormatVersion: 2
-guid: 3ed02c64669790d4ab68a0f1ca4f22e1
+guid: 83f1abcafc6618d4aa97e4f7a76d6e9e
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: flashLight
-    100004: flashLightGlass1
+    100002: vase1Shard1
+    100004: vase1Shard2
+    100006: vase1Shard3
+    100008: vase1Shard4
+    100010: vase1Shard5
     400000: //RootNode
-    400002: flashLight
-    400004: flashLightGlass1
-    2300000: //RootNode
-    2300002: flashLight
-    2300004: flashLightGlass1
-    3300000: //RootNode
-    3300002: flashLight
-    3300004: flashLightGlass1
-    4300000: flashLight
-    4300002: flashLightGlass1
+    400002: vase1Shard1
+    400004: vase1Shard2
+    400006: vase1Shard3
+    400008: vase1Shard4
+    400010: vase1Shard5
+    2300000: vase1Shard1
+    2300002: vase1Shard2
+    2300004: vase1Shard3
+    2300006: vase1Shard4
+    2300008: vase1Shard5
+    3300000: vase1Shard1
+    3300002: vase1Shard2
+    3300004: vase1Shard3
+    3300006: vase1Shard4
+    3300008: vase1Shard5
+    4300000: vase1Shard1
+    4300002: vase1Shard2
+    4300004: vase1Shard3
+    4300006: vase1Shard4
+    4300008: vase1Shard5
     9500000: //RootNode
   materials:
     importMaterials: 1
