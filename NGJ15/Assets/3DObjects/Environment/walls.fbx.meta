@@ -17,6 +17,21 @@ ModelImporter:
     100022: transform4
     100024: transform5
     100026: walls
+    100028: pCube2
+    100030: polySurface5
+    100032: polySurface8
+    100034: transform10
+    100036: transform29
+    100038: transform30
+    100040: transform31
+    100042: transform8
+    100044: transform9
+    100046: wall1
+    100048: wall2
+    100050: wallDoor
+    100052: walls 1
+    100054: walls 2
+    100056: wallWindow
     400000: polySurface1
     400002: Walls
     400004: //RootNode
@@ -31,12 +46,39 @@ ModelImporter:
     400022: transform4
     400024: transform5
     400026: walls
+    400028: pCube2
+    400030: polySurface5
+    400032: polySurface8
+    400034: transform10
+    400036: transform29
+    400038: transform30
+    400040: transform31
+    400042: transform8
+    400044: transform9
+    400046: wall1
+    400048: wall2
+    400050: wallDoor
+    400052: walls 1
+    400054: walls 2
+    400056: wallWindow
     2300000: Walls
     2300002: walls
+    2300004: wall1
+    2300006: wall2
+    2300008: wallDoor
+    2300010: wallWindow
     3300000: Walls
     3300002: walls
+    3300004: wall1
+    3300006: wall2
+    3300008: wallDoor
+    3300010: wallWindow
     4300000: Walls
     4300002: walls
+    4300004: wall2
+    4300006: wallWindow
+    4300008: wall1
+    4300010: wallDoor
     9500000: //RootNode
   materials:
     importMaterials: 1

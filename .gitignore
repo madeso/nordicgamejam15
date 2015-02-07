@@ -21,3 +21,6 @@ NGJ15/NGJ15-csharp.sln
 NGJ15/NGJ15.sln
 
 NGJ15/NGJ15.userprefs
+
+*.iff
+*/tmp/*
