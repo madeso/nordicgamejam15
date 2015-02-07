@@ -11,11 +11,11 @@ GameObject:
   - 33: {fileID: 3330544}
   - 23: {fileID: 2330544}
   - 54: {fileID: 5463610}
-  - 64: {fileID: 6406590}
   - 114: {fileID: 11453378}
+  - 65: {fileID: 6535948}
   m_Layer: 0
   m_Name: Ring
-  m_TagString: Untagged
+  m_TagString: Key
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27,7 +27,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 130544}
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -2.27515531, y: .0415182114, z: 1.76595807}
+  m_LocalPosition: {x: 4.54099989, y: 1.36000001, z: -1.347}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -74,8 +74,8 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!64 &6406590
-MeshCollider:
+--- !u!65 &6535948
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -84,9 +84,8 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_SmoothSphereCollisions: 0
-  m_Convex: 0
-  m_Mesh: {fileID: 4300000, guid: 775eba44bc29a9949aed4c9d36b8715c, type: 3}
+  m_Size: {x: .0700000003, y: .0240000002, z: .0659999996}
+  m_Center: {x: 9.31322575e-10, y: .00311378995, z: -1.86264515e-09}
 --- !u!114 &11453378
 MonoBehaviour:
   m_ObjectHideFlags: 1
