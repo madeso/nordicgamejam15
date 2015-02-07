@@ -3,9 +3,9 @@ using System.Collections;
 
 public class FadeScript : MonoBehaviour {
 
-	public enum FadeStatus {FadeIn, Normal, FadeOut}
+	private enum FadeStatus {FadeIn, Normal, FadeOut}
 
-	public FadeStatus fade = FadeStatus.Normal;
+	private FadeStatus fade = FadeStatus.Normal;
 	public float value = 0;
 	public float SecondsFading = 1;
 
@@ -32,17 +32,16 @@ public class FadeScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		var delta = Time.deltaTime / SecondsFading;
 		switch(this.fade) {
 		case FadeStatus.FadeOut:
-			this.value += delta;
+			this.value += Time.deltaTime;
 			if( value >= 1 ) {
 				this.fade = FadeStatus.Normal;
 				this.value = 1.0f;
 			}
 			break;
 		case FadeStatus.FadeIn:
-			this.value -= delta;
+			this.value -= Time.deltaTime;
 			if( value <= 0 ) {
 				this.value = 0;
 				this.fade = FadeStatus.Normal;

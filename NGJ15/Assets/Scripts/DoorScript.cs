@@ -12,8 +12,8 @@ public class DoorScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void OnCollisionEnter (Collision other) {
-		if (other.transform.tag == "key") {
-						fader.FadeToBlack ();
+		if (other.transform.tag == "Key") {
+						fader.FadeToBlack();
 				} else if (other.transform.GetComponent<Flamable> () != null)
 						other.transform.GetComponent<Flamable> ().FlameTimer = 10.0f;
 	}
