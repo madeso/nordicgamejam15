@@ -6,15 +6,25 @@ ModelImporter:
     100000: //RootNode
     100002: lampScreen
     100004: lightBulb
+    100006: BulbGlass
+    100008: bulpBase
     400000: //RootNode
     400002: lampScreen
     400004: lightBulb
+    400006: BulbGlass
+    400008: bulpBase
     2300000: lampScreen
     2300002: lightBulb
+    2300004: BulbGlass
+    2300006: bulpBase
     3300000: lampScreen
     3300002: lightBulb
+    3300004: BulbGlass
+    3300006: bulpBase
     4300000: lampScreen
     4300002: lightBulb
+    4300004: BulbGlass
+    4300006: bulpBase
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -35,7 +45,7 @@ ModelImporter:
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     importBlendShapes: 1
