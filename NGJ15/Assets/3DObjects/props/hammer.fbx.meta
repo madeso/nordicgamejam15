@@ -9,16 +9,30 @@ ModelImporter:
     100006: pCylinder1
     100008: transform3
     100010: transform4
+    100012: hammerHead
+    100014: hamser
+    100016: transform5
     400000: //RootNode
     400002: hammer
     400004: pCube2
     400006: pCylinder1
     400008: transform3
     400010: transform4
+    400012: hammerHead
+    400014: hamser
+    400016: transform5
     2300000: hammer
+    2300002: hammerHead
+    2300004: hamser
     3300000: hammer
+    3300002: hammerHead
+    3300004: hamser
     4300000: hammer
+    4300002: hamser
+    4300004: hammerHead
     6400000: hammer
+    6400002: hammerHead
+    6400004: hamser
     9500000: //RootNode
   materials:
     importMaterials: 1
