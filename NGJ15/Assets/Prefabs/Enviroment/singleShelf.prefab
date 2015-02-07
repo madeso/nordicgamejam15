@@ -25,7 +25,8 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 400184}
-  - 95: {fileID: 9500162}
+  - 64: {fileID: 6435266}
+  - 114: {fileID: 11468730}
   m_Layer: 0
   m_Name: singleShelf
   m_TagString: Untagged
@@ -85,21 +86,31 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100172}
   m_Mesh: {fileID: 4300000, guid: 32dc3f0ce2c72cb48832ca23451b30e5, type: 3}
---- !u!95 &9500162
-Animator:
-  serializedVersion: 3
+--- !u!64 &6435266
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100184}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 0}
+--- !u!114 &11468730
+MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100184}
   m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 32dc3f0ce2c72cb48832ca23451b30e5, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 1
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44537926ea034174ea83f1a688d17cb8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
