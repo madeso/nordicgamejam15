@@ -8,6 +8,11 @@ public class Destructible : MonoBehaviour {
 	public float Hitpoints = 5;
 
 	/// <summary>
+	/// The prefabs to be spawned when the object is destroyed...
+	/// </summary>
+	public GameObject[] Parts;
+
+	/// <summary>
 	/// How fragile the object is = the ammount of force needs to be greater than this value for it to be damaged.
 	/// -1 = this can't be destroyed by force
 	/// </summary>
@@ -26,6 +31,9 @@ public class Destructible : MonoBehaviour {
 		if(this.Hitpoints <= 0.0) {
 			Destroy(this.gameObject);
 			// todo: spawn destroyed game object
+			foreach(var p in this.Parts) {
+				Instantiate(p, this.transform.position, this.transform.rotation);
+			}
 		}
 	}
 
