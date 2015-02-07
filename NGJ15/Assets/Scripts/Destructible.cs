@@ -62,7 +62,6 @@ public class Destructible : MonoBehaviour {
 
 			this.Hurt(potentialDmg); // todo: find a way to determine the damage the object got was enough
 		}
-		// var other = col.gameObject.GetComponent<Destructible>();
 	}
 
 
