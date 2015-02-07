@@ -8,9 +8,13 @@ public class CameraShake : MonoBehaviour {
 
 	private const float AUDIO_LIMIT = 0.1f;
 
+	private float startupVolume = 0.0f;
+
 	// Use this for initialization
 	void Start () {
 		this.start = this.camera.transform.position;
+
+		this.startupVolume = this.audio.volume;
 
 		this.pickupComponent = this.gameObject.GetComponent<Pickup>();
 		if( this.pickupComponent == null ) {
@@ -25,7 +29,7 @@ public class CameraShake : MonoBehaviour {
 
 		if( throwing > 0 ) {
 			this.camera.transform.position = start + new Vector3(R() * throwing, R() * throwing, R() * throwing);
-			this.audio.volume = throwing;
+			this.audio.volume = throwing * this.startupVolume;
 		}
 
 		if( throwing > AUDIO_LIMIT && this.audio.isPlaying == false ) {
