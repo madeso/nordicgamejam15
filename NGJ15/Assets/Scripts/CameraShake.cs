@@ -18,7 +18,7 @@ public class CameraShake : MonoBehaviour {
 		}
 	}
 
-	void Update() {
+	void OnPreRender() {
 		this.start = this.camera.transform.position;
 
 		float throwing = this.pickupComponent != null ? this.pickupComponent.ThrowPercentage : -1;
@@ -37,7 +37,7 @@ public class CameraShake : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void OnGUI () {
+	void OnPostRender() {
 		this.camera.transform.position = start;
 	}
 
