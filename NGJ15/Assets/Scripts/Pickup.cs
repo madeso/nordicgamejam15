@@ -92,6 +92,9 @@ public class Pickup : MonoBehaviour {
 	private void Throw() // adds force before letting it go
 	{
 		item.rigidbody.AddForce (this.transform.forward*throwForce, ForceMode.Impulse);
+
+		//item.GetComponent<Usable> ().thrown = true;
+
 		LetGo ();
 		throwForce = 0; // resets force.
 

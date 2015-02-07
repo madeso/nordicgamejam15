@@ -32,7 +32,7 @@ GameObject:
   - 114: {fileID: 11400000}
   - 114: {fileID: 11400002}
   - 114: {fileID: 11400004}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -103,8 +103,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100002}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .235388756, y: .442910433, z: .190298259}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 2.69099998, y: -.194999993, z: .115999997}
+  m_LocalScale: {x: .5, y: .5, z: .5}
   m_Children:
   - {fileID: 400000}
   - {fileID: 400004}
@@ -120,7 +120,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100004}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: .907083511, z: 0}
+  m_LocalPosition: {x: 0, y: .907000005, z: -.291999996}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 457712}
@@ -136,7 +136,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 157712}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .379999995, y: -.288083553, z: .721000016}
+  m_LocalPosition: {x: .379999995, y: -.287999988, z: .537999988}
   m_LocalScale: {x: .352908492, y: .352908462, z: .352908462}
   m_Children: []
   m_Father: {fileID: 400004}
@@ -354,7 +354,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 96dcbb868f9701649bcc9d7fbfa60fe3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PickupDistance: 20
+  PickupDistance: 3
+  ThrowIncreaseSpeed: 10
+  maxThrowForce: 20
+  minThrowForce: 1
 --- !u!124 &12400000
 Behaviour:
   m_ObjectHideFlags: 1

@@ -1,24 +1,13 @@
 fileFormatVersion: 2
-guid: cd1ca126b0459f84983683c41c153eaa
+guid: fd5b30f857f9a9b42b8ebfd517156129
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: hammer
-    100004: pCube2
-    100006: pCylinder1
-    100008: transform3
-    100010: transform4
     400000: //RootNode
-    400002: hammer
-    400004: pCube2
-    400006: pCylinder1
-    400008: transform3
-    400010: transform4
-    2300000: hammer
-    3300000: hammer
-    4300000: hammer
-    6400000: hammer
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: cannonball
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -41,7 +30,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .00999999978
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -55,7 +44,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0

@@ -1,24 +1,35 @@
 fileFormatVersion: 2
-guid: cd1ca126b0459f84983683c41c153eaa
+guid: 29f2fe412e348ab45aa46ee99214c52f
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: hammer
-    100004: pCube2
-    100006: pCylinder1
-    100008: transform3
-    100010: transform4
+    100002: bottleShard1
+    100004: bottleShard2
+    100006: bottleShard3
+    100008: bottleShard4
+    100010: bottleShard5
     400000: //RootNode
-    400002: hammer
-    400004: pCube2
-    400006: pCylinder1
-    400008: transform3
-    400010: transform4
-    2300000: hammer
-    3300000: hammer
-    4300000: hammer
-    6400000: hammer
+    400002: bottleShard1
+    400004: bottleShard2
+    400006: bottleShard3
+    400008: bottleShard4
+    400010: bottleShard5
+    2300000: bottleShard1
+    2300002: bottleShard2
+    2300004: bottleShard3
+    2300006: bottleShard4
+    2300008: bottleShard5
+    3300000: bottleShard1
+    3300002: bottleShard2
+    3300004: bottleShard3
+    3300006: bottleShard4
+    3300008: bottleShard5
+    4300000: bottleShard1
+    4300002: bottleShard2
+    4300004: bottleShard3
+    4300006: bottleShard4
+    4300008: bottleShard5
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -41,7 +52,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .00999999978
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -55,7 +66,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0

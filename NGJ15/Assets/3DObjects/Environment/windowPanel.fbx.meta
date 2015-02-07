@@ -1,24 +1,59 @@
 fileFormatVersion: 2
-guid: cd1ca126b0459f84983683c41c153eaa
+guid: 81bf05a40f346794c814346208d1e642
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: hammer
-    100004: pCube2
-    100006: pCylinder1
-    100008: transform3
-    100010: transform4
-    400000: //RootNode
-    400002: hammer
-    400004: pCube2
-    400006: pCylinder1
-    400008: transform3
-    400010: transform4
-    2300000: hammer
-    3300000: hammer
-    4300000: hammer
-    6400000: hammer
+    100000: pCube1
+    100002: pCube2
+    100004: polySurface1
+    100006: polySurface2
+    100008: polySurface3
+    100010: polySurface3 1
+    100012: polySurface4
+    100014: transform1
+    100016: transform10
+    100018: transform11
+    100020: transform12
+    100022: transform2
+    100024: transform3
+    100026: transform4
+    100028: transform5
+    100030: transform8
+    100032: transform9
+    100034: Walls
+    100036: walls
+    100038: walls 1
+    100040: //RootNode
+    100042: windowPanel
+    100044: windowpanel
+    100046: windowPanel 1
+    400000: pCube1
+    400002: pCube2
+    400004: polySurface1
+    400006: polySurface2
+    400008: polySurface3
+    400010: polySurface3 1
+    400012: polySurface4
+    400014: transform1
+    400016: transform10
+    400018: transform11
+    400020: transform12
+    400022: transform2
+    400024: transform3
+    400026: transform4
+    400028: transform5
+    400030: transform8
+    400032: transform9
+    400034: Walls
+    400036: walls
+    400038: walls 1
+    400040: //RootNode
+    400042: windowPanel
+    400044: windowpanel
+    400046: windowPanel 1
+    2300000: windowPanel 1
+    3300000: windowPanel 1
+    4300000: windowPanel
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -41,7 +76,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .00999999978
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -55,7 +90,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0

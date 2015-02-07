@@ -1,24 +1,54 @@
 fileFormatVersion: 2
-guid: cd1ca126b0459f84983683c41c153eaa
+guid: 12a1276eeeab2c645b4eced1d4e410ab
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: hammer
-    100004: pCube2
-    100006: pCylinder1
-    100008: transform3
-    100010: transform4
+    100002: bucket
+    100004: bucket 1
+    100006: bucketHandle
+    100008: pCube1
+    100010: pCube2
+    100012: pCube3
+    100014: pCylinder1
+    100016: pCylinder2
+    100018: polySurface1
+    100020: polySurface1 1
+    100022: polySurface2
+    100024: transform1
+    100026: transform2
+    100028: transform3
+    100030: transform4
+    100032: transform5
+    100034: transform6
+    100036: transform7
+    100038: transform8
     400000: //RootNode
-    400002: hammer
-    400004: pCube2
-    400006: pCylinder1
-    400008: transform3
-    400010: transform4
-    2300000: hammer
-    3300000: hammer
-    4300000: hammer
-    6400000: hammer
+    400002: bucket
+    400004: bucket 1
+    400006: bucketHandle
+    400008: pCube1
+    400010: pCube2
+    400012: pCube3
+    400014: pCylinder1
+    400016: pCylinder2
+    400018: polySurface1
+    400020: polySurface1 1
+    400022: polySurface2
+    400024: transform1
+    400026: transform2
+    400028: transform3
+    400030: transform4
+    400032: transform5
+    400034: transform6
+    400036: transform7
+    400038: transform8
+    2300000: bucket 1
+    2300002: bucketHandle
+    3300000: bucket 1
+    3300002: bucketHandle
+    4300000: bucketHandle
+    4300002: bucket
     9500000: //RootNode
   materials:
     importMaterials: 1
@@ -41,7 +71,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: .00999999978
     meshCompression: 0
-    addColliders: 1
+    addColliders: 0
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
@@ -55,7 +85,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
-    normalImportMode: 1
+    normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
