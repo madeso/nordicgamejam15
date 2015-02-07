@@ -3,8 +3,7 @@ using System.Collections;
 
 public class Pickup : MonoBehaviour {
 	
-	[SerializeField]
-	private float PickupDistance;
+	public float PickupDistance;
 
 	[SerializeField]
 	private float ThrowIncreaseSpeed = 20;
@@ -20,6 +19,12 @@ public class Pickup : MonoBehaviour {
 	private bool handsFull = false;
 	private GameObject item;
 	private float throwForce = 0;
+
+	public bool HasPickedUpItem {
+		get {
+			return item != null;
+		}
+	}
 
 	// Use this for initialization
 	void Start () {

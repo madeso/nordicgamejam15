@@ -56,6 +56,7 @@ GameObject:
   - 114: {fileID: 11400006}
   - 81: {fileID: 8100000}
   - 114: {fileID: 11494628}
+  - 114: {fileID: 11401640}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -343,6 +344,19 @@ MonoBehaviour:
 --- !u!1002 &11400007
 EditorExtensionImpl:
   serializedVersion: 6
+--- !u!114 &11401640
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3912fcfb521445c0b3414b24b966ecc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Crosshair: {fileID: 2800000, guid: cc3f184262ad64fecb542317ca6e4a42, type: 3}
+  PickupFontColor: {r: 1, g: 1, b: 1, a: 1}
 --- !u!114 &11494628
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -355,6 +369,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PickupDistance: 20
+  ThrowIncreaseSpeed: 20
+  maxThrowForce: 50
+  minThrowForce: 1
 --- !u!124 &12400000
 Behaviour:
   m_ObjectHideFlags: 1
