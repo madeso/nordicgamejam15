@@ -16,7 +16,9 @@ ModelImporter:
     400008: transform27
     400010: transform28
     2300000: fireplace
+    2300002: //RootNode
     3300000: fireplace
+    3300002: //RootNode
     4300000: fireplace
     9500000: //RootNode
   materials:
