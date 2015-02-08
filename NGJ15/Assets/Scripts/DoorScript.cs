@@ -14,6 +14,7 @@ public class DoorScript : MonoBehaviour {
 	void OnCollisionEnter (Collision other) {
 		if (other.transform.tag == "Key") {
 						fader.FadeToBlack();
+			Application.LoadLevel(0);
 				} else if (other.transform.GetComponent<Flamable> () != null)
 						other.transform.GetComponent<Flamable> ().FlameTimer = 10.0f;
 	}
