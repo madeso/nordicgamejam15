@@ -11,8 +11,8 @@ GameObject:
   - 33: {fileID: 3300882}
   - 23: {fileID: 2300882}
   - 54: {fileID: 5400882}
-  - 64: {fileID: 6400882}
   - 114: {fileID: 11400882}
+  - 65: {fileID: 6575126}
   m_Layer: 0
   m_Name: woodenBlock
   m_TagString: Untagged
@@ -26,8 +26,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100882}
-  m_LocalRotation: {x: -2.39723175e-08, y: 9.7194898e-11, z: 1.69775536e-08, w: 1}
-  m_LocalPosition: {x: 1.34000003, y: .07151822, z: -.889999986}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: .0710000023, y: -.0759999976, z: -.112999998}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -44,7 +44,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 04a0076a4eb92de41892809a59db17cb, type: 2}
+  - {fileID: 2100000, guid: 1c8b287bdc4cdd64aabf783a6a383a38, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -74,8 +74,8 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
---- !u!64 &6400882
-MeshCollider:
+--- !u!65 &6575126
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
@@ -84,9 +84,8 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_SmoothSphereCollisions: 0
-  m_Convex: 0
-  m_Mesh: {fileID: 4300000, guid: fe4cc90ef9b2b8b47abc9799ff73d8d6, type: 3}
+  m_Size: {x: .119999997, y: .119999997, z: .119999997}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &11400882
 MonoBehaviour:
   m_ObjectHideFlags: 1
