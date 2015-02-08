@@ -34,6 +34,7 @@ public class Flamable : MonoBehaviour {
 	public GameObject prefabFire = null;
 	
 	private GameObject fireInstance = null;
+	public Vector3 FireDisplacement = new Vector3(0, 0.2f, 0);
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////
 	// High level logic
@@ -56,7 +57,7 @@ public class Flamable : MonoBehaviour {
 		// Debug.Log(string.Format("{0}: playing some burn sound...", this.gameObject.name));
 		
 		if( fireInstance != null ) {
-			fireInstance.transform.position = this.transform.position;
+			fireInstance.transform.position = this.transform.position + FireDisplacement;
 		}
 	}
 	
