@@ -20,6 +20,9 @@ GameObject:
   - 82: {fileID: 8260774}
   - 65: {fileID: 6572682}
   - 64: {fileID: 6472682}
+  - 114: {fileID: 11421144}
+  - 65: {fileID: 6521144}
+  - 64: {fileID: 6421144}
   m_Layer: 0
   m_Name: key
   m_TagString: Untagged
@@ -81,6 +84,19 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 1
+--- !u!64 &6421144
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157902}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300000, guid: 8ef45986f5ab85f419bb65703f54bced, type: 3}
 --- !u!64 &6460774
 MeshCollider:
   m_ObjectHideFlags: 1
@@ -107,6 +123,18 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 4300000, guid: 8ef45986f5ab85f419bb65703f54bced, type: 3}
+--- !u!65 &6521144
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157902}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .195607081, y: .102845237, z: .0840331912}
+  m_Center: {x: .015535037, y: .00432337355, z: -.00513191102}
 --- !u!65 &6560774
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -189,6 +217,19 @@ AudioSource:
       tangentMode: 0
     m_PreInfinity: 2
     m_PostInfinity: 2
+--- !u!114 &11421144
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157902}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  Name: 
 --- !u!114 &11460774
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -230,6 +271,8 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
+  FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!114 &11460780
 MonoBehaviour:
   m_ObjectHideFlags: 1

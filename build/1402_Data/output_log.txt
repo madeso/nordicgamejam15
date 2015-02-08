@@ -1,0 +1,3703 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 555M     (ID=0xdcd)
+    Vendor:   NVIDIA
+    VRAM:     3019 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading H:\Github\nordicgamejam15\build\1402_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading H:\Github\nordicgamejam15\build\1402_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading H:\Github\nordicgamejam15\build\1402_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading H:\Github\nordicgamejam15\build\1402_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading H:\Github\nordicgamejam15\build\1402_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\System.Core.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
+Awakwe
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Start
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: H:\Github\nordicgamejam15\build\1402_Data\Managed\Boo.Lang.dll (this message is harmless)
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseBlue: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseBlue: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseBlue: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+football: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 1.962
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0.8744233
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0.8744233
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0.8744233
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 1.266317
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+woodenBlock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+woodenBlock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+woodenBlock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+goblet03: hit force was 20.26341
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.26341
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.26341
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 7.244411
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 7.246943
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 74.97282
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 74.97282
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 58.15449
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 58.15449
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 1.647942
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.647942
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.798423
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.798423
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 289.8542
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 289.8542
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 412.9473
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 412.9473
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 1154.965
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 1668.181
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 990.662
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 990.662
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+UnloadTime: 19.050261 ms
+Awakwe
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 2372.
+Total: 1.150587 ms (FindLiveObjects: 0.085524 ms CreateObjectMapping: 0.031168 ms MarkObjects: 0.214000 ms  DeleteObjects: 0.399113 ms)
+
+Start
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseBlue: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseBlue: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseBlue: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+football: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 1.962
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 4.417916
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0.8744233
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0.8744233
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 0.8744233
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 1.266317
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+shelfBig
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+woodenBlock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+goblet03: hit force was 0.4086878
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.4086878
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.4086878
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3816699
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+woodenBlock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 20.27789
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.8548042
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.8548042
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.130675
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.945657
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.262277
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.09262
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 13.21012
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.07135046
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.07135046
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3094985
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3094985
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 9.426401
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3672138
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3672138
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.0818101
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.0818101
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 11.30352
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 11.30352
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2648799
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04757186
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04757186
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.03368833
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.03368833
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3932835
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3932835
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 5.334009
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 7.736461
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.536348
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 9.346858
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 5.468659
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.802466
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 4.796889
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3033509
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3033509
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2837516
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2837516
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 5.306179
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3346218
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.5209098
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.5209098
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.7921128
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1195014
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1195014
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.9673772
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.9673772
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.854347
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.854347
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.246987
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.246987
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.344481
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.344481
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.820449
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.820449
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 19.08807
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 4.263872
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.392713
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.392713
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05762405
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05762405
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.24501
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.24501
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.153802
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.153802
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1280357
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1280357
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 9.274841
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 3.014894
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1969348
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1969348
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.8469855
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.8469855
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.07478618
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.9789593
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.9789593
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 11.38448
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 11.38448
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2876474
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2876474
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.64785
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.932985
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05449836
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05449836
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.471917
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1603565
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1603565
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 1.836216
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.10255
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.10255
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3378062
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3378062
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3163863
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3163863
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.242517
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.242517
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2522629
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2522629
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1764362
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1764362
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2928848
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.2928848
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1253483
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1253483
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3191674
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.3191674
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 3.105908
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.09665263
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.09665263
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 3.005535
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.06200646
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04761763
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04761763
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 2.780834
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.06999959
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.06999959
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1980507
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1980507
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 12.24378
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 10.46808
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.02152606
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.02152606
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.01644485
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.01644485
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.08330509
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.08330509
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04651804
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.01109197
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.01109197
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 33.45891
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+Actor::updateMassFromShapes: Compute mesh inertia tensor failed for one of the actor's mesh shapes! Please change mesh geometry or supply a tensor manually!
+ 
+(Filename: ..\..\Physics\src\NpActor.cpp Line: 134)
+
+goblet03: hit force was 0.1160364
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.1160364
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.005412623
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.005412623
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 5.861284
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 6.78828
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.01063683
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.01063683
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04898237
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.04898237
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.00819758
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.00819758
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05908451
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.08372162
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05023843
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.05023843
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.03094236
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.001947025
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+goblet03: hit force was 0.001947025
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: hit force was 17.02946
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+key: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 3.551541
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 3.551541
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: hit force was 3.551541
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FIRE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: started burning
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+teddyBear: stopped burning
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+shelfBig
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+woodenBlock
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FIRE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FIRE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+FIRE
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+woodenBlock: stopped burning
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: hit force was 28.13778
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+vaseWhite: hit force was 198.7633
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+vaseWhite: died
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+GravityBall
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+
+Can not play a disabled audio source
+ 
+(Filename:  Line: 377)
+

@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &8735810
 BoxCollider:
@@ -401,7 +401,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &8735816
 BoxCollider:
@@ -1392,7 +1392,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &87906207
 BoxCollider:
@@ -1419,7 +1419,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &87906209
 Rigidbody:
@@ -2409,7 +2409,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &180458428
 BoxCollider:
@@ -2436,7 +2436,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &180458430
 Rigidbody:
@@ -2822,6 +2822,18 @@ Prefab:
     - target: {fileID: 11432472, guid: b8b042f37c693b24ba5f16433b7e2550, type: 2}
       propertyPath: Name
       value: '"Football"'
+      objectReference: {fileID: 0}
+    - target: {fileID: 11465954, guid: b8b042f37c693b24ba5f16433b7e2550, type: 2}
+      propertyPath: prefabFire
+      value: 
+      objectReference: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
+    - target: {fileID: 11440676, guid: b8b042f37c693b24ba5f16433b7e2550, type: 2}
+      propertyPath: Fragility
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 11440676, guid: b8b042f37c693b24ba5f16433b7e2550, type: 2}
+      propertyPath: Parts.Array.data[0]
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: b8b042f37c693b24ba5f16433b7e2550, type: 2}
@@ -4542,7 +4554,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &305489396
 BoxCollider:
@@ -4569,7 +4581,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &305489398
 Rigidbody:
@@ -6529,7 +6541,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &345054431
 BoxCollider:
@@ -6556,7 +6568,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &345054433
 Rigidbody:
@@ -7435,7 +7447,7 @@ Prefab:
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 100882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 438877010}
@@ -7458,21 +7470,21 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 11400882, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &438877006
 BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6553444, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -7485,7 +7497,7 @@ Rigidbody:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 5400882, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   serializedVersion: 2
   m_Mass: 1
@@ -7501,7 +7513,7 @@ Renderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 2300882, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_Enabled: 1
   m_CastShadows: 1
@@ -7522,14 +7534,14 @@ MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 3300882, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_Mesh: {fileID: 4300000, guid: fe4cc90ef9b2b8b47abc9799ff73d8d6, type: 3}
 --- !u!4 &438877010
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_LocalRotation: {x: 0, y: -0, z: 0, w: 1}
   m_LocalPosition: {x: .071387291, y: -.0755319595, z: -.216709614}
@@ -7542,7 +7554,7 @@ BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6575126, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -7555,7 +7567,7 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 11447748, guid: 279f295c45e394f488c8ea9e83bc181e,
     type: 2}
-  m_PrefabInternal: {fileID: 1760931026}
+  m_PrefabInternal: {fileID: 568287339}
   m_GameObject: {fileID: 438877004}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -7567,7 +7579,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!1 &446582373
 GameObject:
@@ -7869,7 +7881,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &471913340
 BoxCollider:
@@ -7896,7 +7908,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &471913342
 Rigidbody:
@@ -8232,7 +8244,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 448138, guid: d6d66819d59443e4bb260508addce730, type: 2}
       propertyPath: m_RootOrder
-      value: 13
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 8222226, guid: d6d66819d59443e4bb260508addce730, type: 2}
       propertyPath: m_audioClip
@@ -8846,7 +8858,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &561578445
 BoxCollider:
@@ -8873,7 +8885,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &561578447
 Rigidbody:
@@ -9047,6 +9059,50 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1462381142}
   m_RootOrder: 1
+--- !u!1001 &568287339
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1132799243}
+    m_Modifications:
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: .071387291
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -.0755319595
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -.216709614
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
+  m_RootGameObject: {fileID: 438877004}
+  m_IsPrefabParent: 0
+  m_IsExploded: 1
 --- !u!1 &568682534
 GameObject:
   m_ObjectHideFlags: 0
@@ -9265,7 +9321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &588627552
 BoxCollider:
@@ -9354,7 +9410,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &588627558
 BoxCollider:
@@ -9516,7 +9572,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &612706614
 BoxCollider:
@@ -9543,7 +9599,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &612706616
 Rigidbody:
@@ -10377,7 +10433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &671945595
 BoxCollider:
@@ -10466,7 +10522,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &671945601
 BoxCollider:
@@ -10630,7 +10686,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &700424785
 BoxCollider:
@@ -10657,7 +10713,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &700424787
 Rigidbody:
@@ -11131,7 +11187,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &721709397
 BoxCollider:
@@ -11158,7 +11214,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &721709399
 Rigidbody:
@@ -11419,7 +11475,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &735688705
 BoxCollider:
@@ -11446,7 +11502,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &735688707
 Rigidbody:
@@ -12144,7 +12200,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &803580053
 BoxCollider:
@@ -12171,7 +12227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &803580055
 Rigidbody:
@@ -17897,7 +17953,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1165787909
 BoxCollider:
@@ -17924,7 +17980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &1165787911
 Rigidbody:
@@ -18639,7 +18695,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1200494279
 BoxCollider:
@@ -18666,7 +18722,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &1200494281
 Rigidbody:
@@ -19289,7 +19345,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &1232279010
 BoxCollider:
@@ -19366,7 +19422,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1232279015
 BoxCollider:
@@ -20178,7 +20234,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1265709077
 BoxCollider:
@@ -20205,7 +20261,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &1265709079
 Rigidbody:
@@ -20657,7 +20713,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1293784197
 BoxCollider:
@@ -20684,7 +20740,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &1293784199
 Rigidbody:
@@ -22333,52 +22389,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 1871905110}
   m_GameObject: {fileID: 1397855246}
   m_Mesh: {fileID: 4300000, guid: 576a192ad12d0cb4d9e214ff2141e88c, type: 3}
---- !u!1001 &1405656787
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: 4.19199991
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: 1.102
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -1.59800005
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: -.0228400566
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: .945162773
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: .0127142826
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: .325551867
-      objectReference: {fileID: 0}
-    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    m_RemovedComponents:
-    - {fileID: 11469250, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-    - {fileID: 6440972, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-  m_ParentPrefab: {fileID: 100100000, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-  m_RootGameObject: {fileID: 1926497231}
-  m_IsPrefabParent: 0
-  m_IsExploded: 1
 --- !u!1 &1406482449
 GameObject:
   m_ObjectHideFlags: 0
@@ -23899,6 +23909,7 @@ GameObject:
   - 65: {fileID: 1530361088}
   - 54: {fileID: 1530361087}
   - 114: {fileID: 1530361086}
+  - 114: {fileID: 1530361092}
   m_Layer: 0
   m_Name: baseballBat
   m_TagString: Untagged
@@ -23989,7 +24000,25 @@ Transform:
   m_LocalScale: {x: 1.99712169, y: 1.99712169, z: 1.99712169}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
+--- !u!114 &1530361092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1530361085}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FlameTimer: 0
+  CoalColor: {r: 0, g: 0, b: 0, a: 1}
+  SecondsToCoal: 3
+  BurnDamage: 1
+  SecondsBetweenDamage: 1
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
+  FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!1 &1531276357
 GameObject:
   m_ObjectHideFlags: 0
@@ -24951,7 +24980,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &1571211430
 BoxCollider:
@@ -25040,7 +25069,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1571211436
 BoxCollider:
@@ -25291,7 +25320,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1589675574
 BoxCollider:
@@ -25318,7 +25347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &1589675576
 Rigidbody:
@@ -26752,7 +26781,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1678002174
 BoxCollider:
@@ -26779,7 +26808,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &1678002176
 Rigidbody:
@@ -27394,7 +27423,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!114 &1718827935
 MonoBehaviour:
@@ -27410,8 +27439,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Hitpoints: 5
   Parts:
-  - {fileID: 132898, guid: c460ae1c2bbb30243a57f62963bd34e2, type: 2}
-  Fragility: 0
+  - {fileID: 0}
+  Fragility: 100
 --- !u!114 &1718827936
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27902,50 +27931,6 @@ MeshFilter:
   m_PrefabInternal: {fileID: 498355878}
   m_GameObject: {fileID: 1754058513}
   m_Mesh: {fileID: 4300000, guid: 321372657be14f240b961d151f51fb68, type: 3}
---- !u!1001 &1760931026
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 1132799243}
-    m_Modifications:
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalPosition.x
-      value: .071387291
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalPosition.y
-      value: -.0755319595
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalPosition.z
-      value: -.216709614
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400882, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: 279f295c45e394f488c8ea9e83bc181e, type: 2}
-  m_RootGameObject: {fileID: 438877004}
-  m_IsPrefabParent: 0
-  m_IsExploded: 1
 --- !u!1 &1771152631
 GameObject:
   m_ObjectHideFlags: 0
@@ -29183,7 +29168,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: 4
 --- !u!65 &1840201177
 BoxCollider:
@@ -29284,7 +29269,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1840201184
 BoxCollider:
@@ -30011,7 +29996,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &1883417240
 BoxCollider:
@@ -30100,7 +30085,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &1883417246
 BoxCollider:
@@ -30657,7 +30642,7 @@ Transform:
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 157902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1926497235}
@@ -30688,7 +30673,7 @@ Rigidbody:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 5496746, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   serializedVersion: 2
   m_Mass: 1
@@ -30704,7 +30689,7 @@ Renderer:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 2357902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   m_CastShadows: 1
@@ -30725,26 +30710,27 @@ MeshFilter:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 3357902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Mesh: {fileID: 4300000, guid: 8ef45986f5ab85f419bb65703f54bced, type: 3}
 --- !u!4 &1926497235
 Transform:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_LocalRotation: {x: -.0228400566, y: .945162773, z: .0127142826, w: .325551867}
   m_LocalPosition: {x: 4.19199991, y: 1.102, z: -1.59800005}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
 --- !u!114 &1926497236
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabParentObject: {fileID: 11421144, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
+    type: 2}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -30756,8 +30742,9 @@ MonoBehaviour:
 --- !u!65 &1926497237
 BoxCollider:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabParentObject: {fileID: 6521144, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
+    type: 2}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -30768,8 +30755,9 @@ BoxCollider:
 --- !u!64 &1926497238
 MeshCollider:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabParentObject: {fileID: 6421144, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
+    type: 2}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -30783,7 +30771,7 @@ MeshCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6472682, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -30797,7 +30785,7 @@ BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6572682, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -30810,7 +30798,7 @@ AudioSource:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 8260774, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   serializedVersion: 3
@@ -30869,7 +30857,7 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 11460774, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -30881,7 +30869,7 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 11460776, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -30896,7 +30884,7 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 11460778, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -30908,14 +30896,14 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!64 &1926497245
 MeshCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6460774, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -30929,7 +30917,7 @@ BoxCollider:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 6560774, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -30942,7 +30930,7 @@ MonoBehaviour:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 11460780, guid: 4a99ceb6c5a869b46b8317cf4faf88bd,
     type: 2}
-  m_PrefabInternal: {fileID: 1405656787}
+  m_PrefabInternal: {fileID: 2097996207}
   m_GameObject: {fileID: 1926497231}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -32048,7 +32036,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: 2
 --- !u!65 &2003342239
 BoxCollider:
@@ -32137,7 +32125,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &2003342245
 BoxCollider:
@@ -32562,7 +32550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!65 &2038508669
 BoxCollider:
@@ -32651,7 +32639,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &2038508675
 BoxCollider:
@@ -33383,7 +33371,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &2085682524
 BoxCollider:
@@ -33410,7 +33398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &2085682526
 Rigidbody:
@@ -33686,6 +33674,50 @@ Prefab:
   m_RootGameObject: {fileID: 1193248204}
   m_IsPrefabParent: 0
   m_IsExploded: 1
+--- !u!1001 &2097996207
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 4.19199991
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 1.102
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: -1.59800005
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -.0228400566
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: .945162773
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: .0127142826
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: .325551867
+      objectReference: {fileID: 0}
+    - target: {fileID: 457902, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 4a99ceb6c5a869b46b8317cf4faf88bd, type: 2}
+  m_RootGameObject: {fileID: 1926497231}
+  m_IsPrefabParent: 0
+  m_IsExploded: 1
 --- !u!1 &2109236890
 GameObject:
   m_ObjectHideFlags: 0
@@ -33867,7 +33899,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &2116941335
 BoxCollider:
@@ -33894,7 +33926,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &2116941337
 Rigidbody:
@@ -34115,7 +34147,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!65 &2133589489
 BoxCollider:
@@ -34142,7 +34174,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!54 &2133589491
 Rigidbody:

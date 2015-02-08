@@ -129,7 +129,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
-  prefabFire: {fileID: 0}
+  prefabFire: {fileID: 120346, guid: c67c3287c3fb5ea448601b374e5efec7, type: 2}
   FireDisplacement: {x: 0, y: .200000003, z: 0}
 --- !u!1001 &100100000
 Prefab:
