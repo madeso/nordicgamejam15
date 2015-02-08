@@ -10,7 +10,7 @@ public class Finder : MonoBehaviour {
 
 	void Start()
 	{
-		torch = this.GetComponentInChildren<Light> ();
+		torch = this.GetComponentInChildren<Light>();
 	}
 
 	// Update is called once per frame
@@ -18,8 +18,6 @@ public class Finder : MonoBehaviour {
 	
 		if(!this.transform.rigidbody.useGravity)
 		{
-			if(this.transform.parent.name == "Hand")
-			{
 			torch.enabled = true;
 
 			RaycastHit hit;
@@ -30,7 +28,6 @@ public class Finder : MonoBehaviour {
 					hit.transform.gameObject.GetComponent<HiddenText>().enabled = true;
 				}
 					Debug.DrawRay(transform.position, this.transform.up *lightDistance, Color.green, 1f);
-			}
 			}
 		}
 
