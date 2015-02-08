@@ -139,7 +139,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 157712}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: .465000004, y: -.326999992, z: 3.31599998}
+  m_LocalPosition: {x: .0439999998, y: .224000007, z: 3.54500008}
   m_LocalScale: {x: .352908492, y: .352908462, z: .352908462}
   m_Children: []
   m_Father: {fileID: 400004}
@@ -228,7 +228,7 @@ AudioSource:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 100004}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 3
   m_audioClip: {fileID: 8300000, guid: d3ae05881438843cd8ae14039ee8a8bb, type: 3}
   m_PlayOnAwake: 0
@@ -428,6 +428,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 692e81a7f8cd8458db3faa4adef766ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ShakeMagnitude: .0250000004
 --- !u!114 &11494628
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -443,6 +444,7 @@ MonoBehaviour:
   ThrowIncreaseSpeed: 50
   maxThrowForce: 20
   minThrowForce: 1
+  debughand: {x: 0, y: 0, z: 0}
 --- !u!124 &12400000
 Behaviour:
   m_ObjectHideFlags: 1
