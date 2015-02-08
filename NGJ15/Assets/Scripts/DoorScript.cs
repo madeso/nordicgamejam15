@@ -22,7 +22,9 @@ public class DoorScript : MonoBehaviour {
 				objectToShow.renderer.enabled = true;
 			}
 						fader.FadeToBlack();
-			Application.LoadLevel(0);
+			if(Application.levelCount > 1)
+			Application.LoadLevel(1);
+			else{Application.LoadLevel(0);}
 				}
 
 	}
