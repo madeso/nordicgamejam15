@@ -10,6 +10,7 @@ public class HiddenText : MonoBehaviour {
 		this.renderer.enabled = true;
 		alpha = renderer.material.GetFloat ("_Cutoff");
 		StartCoroutine (ShowText());
+		audio.Play ();
 	}
 
 	IEnumerator ShowText() {
