@@ -10,7 +10,10 @@ GameObject:
   - 4: {fileID: 472010}
   - 33: {fileID: 3372010}
   - 23: {fileID: 2372010}
-  - 95: {fileID: 9572010}
+  - 54: {fileID: 5456230}
+  - 65: {fileID: 6556230}
+  - 114: {fileID: 11456228}
+  - 114: {fileID: 11456230}
   m_Layer: 0
   m_Name: goblet02
   m_TagString: Untagged
@@ -57,6 +60,33 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 172010}
   m_Mesh: {fileID: 4300000, guid: 77b21a50a9256404fb2fad1c75f3c089, type: 3}
+--- !u!54 &5456230
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172010}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &6556230
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172010}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .127736211, y: .22726801, z: .124607563}
+  m_Center: {x: .00149106979, y: -.0230108052, z: -.000448226929}
 --- !u!95 &9572010
 Animator:
   serializedVersion: 3
@@ -72,6 +102,33 @@ Animator:
   m_ApplyRootMotion: 1
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &11456228
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  Name: Goblet
+--- !u!114 &11456230
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3d98370c6e64624ac254e9981a12b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Hitpoints: 5
+  Parts: []
+  Fragility: 0
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
