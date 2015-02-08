@@ -111,7 +111,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clip: {fileID: 0}
+  clip: {fileID: 8300000, guid: 6d4a35b2b4a4c4c11ae73ca627f2b8d4, type: 3}
   Name: Wooden Block
 --- !u!114 &11447748
 MonoBehaviour:
