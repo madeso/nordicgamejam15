@@ -18,6 +18,8 @@ GameObject:
   - 114: {fileID: 11460776}
   - 114: {fileID: 11460774}
   - 82: {fileID: 8260774}
+  - 65: {fileID: 6572682}
+  - 64: {fileID: 6472682}
   m_Layer: 0
   m_Name: key
   m_TagString: Untagged
@@ -92,7 +94,32 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 4300000, guid: 8ef45986f5ab85f419bb65703f54bced, type: 3}
+--- !u!64 &6472682
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157902}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300000, guid: 8ef45986f5ab85f419bb65703f54bced, type: 3}
 --- !u!65 &6560774
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 157902}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .195607081, y: .102845237, z: .0840331912}
+  m_Center: {x: .015535037, y: .00432337355, z: -.00513191102}
+--- !u!65 &6572682
 BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -112,15 +139,15 @@ AudioSource:
   m_GameObject: {fileID: 157902}
   m_Enabled: 1
   serializedVersion: 3
-  m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_audioClip: {fileID: 8300000, guid: 1d6cd6713f23d4341a90caf3da4e13c7, type: 3}
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Priority: 128
   DopplerLevel: 1
-  MinDistance: 1
+  MinDistance: .778446198
   MaxDistance: 500
   Pan2D: 0
   rolloffMode: 0
@@ -215,7 +242,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 0}
-  Name: NOO IT CANT BE!
+  Name: The Key
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

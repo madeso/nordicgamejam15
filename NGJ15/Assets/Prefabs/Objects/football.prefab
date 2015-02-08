@@ -10,6 +10,8 @@ GameObject:
   - 4: {fileID: 488326}
   - 33: {fileID: 3388326}
   - 23: {fileID: 2388326}
+  - 64: {fileID: 6460416}
+  - 114: {fileID: 11457436}
   m_Layer: 0
   m_Name: footballStiches
   m_TagString: Untagged
@@ -27,6 +29,11 @@ GameObject:
   - 4: {fileID: 488328}
   - 33: {fileID: 3388328}
   - 23: {fileID: 2388328}
+  - 54: {fileID: 5432472}
+  - 64: {fileID: 6432472}
+  - 114: {fileID: 11432472}
+  - 114: {fileID: 11440676}
+  - 114: {fileID: 11465954}
   m_Layer: 0
   m_Name: football
   m_TagString: Untagged
@@ -71,7 +78,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 04a0076a4eb92de41892809a59db17cb, type: 2}
+  - {fileID: 2100000, guid: 504ad54c432f0254e8d549b3fc00237a, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -91,7 +98,7 @@ Renderer:
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 04a0076a4eb92de41892809a59db17cb, type: 2}
+  - {fileID: 2100000, guid: 1d580d859ff3e324b8e446f4a60a3610, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -113,6 +120,107 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 188328}
   m_Mesh: {fileID: 4300000, guid: 81d21d4b675d43a42928f0804591f3f0, type: 3}
+--- !u!54 &5432472
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188328}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!64 &6432472
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188328}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300000, guid: 81d21d4b675d43a42928f0804591f3f0, type: 3}
+--- !u!64 &6460416
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188326}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300002, guid: 81d21d4b675d43a42928f0804591f3f0, type: 3}
+--- !u!114 &11432472
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  clip: {fileID: 0}
+  Name: 
+--- !u!114 &11440676
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3d98370c6e64624ac254e9981a12b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Hitpoints: 5
+  Parts:
+  - {fileID: 132898, guid: c460ae1c2bbb30243a57f62963bd34e2, type: 2}
+  Fragility: 0
+--- !u!114 &11457436
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188326}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FlameTimer: 0
+  CoalColor: {r: 0, g: 0, b: 0, a: 1}
+  SecondsToCoal: 3
+  BurnDamage: 1
+  SecondsBetweenDamage: 1
+--- !u!114 &11465954
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 188328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FlameTimer: 0
+  CoalColor: {r: 0, g: 0, b: 0, a: 1}
+  SecondsToCoal: 3
+  BurnDamage: 1
+  SecondsBetweenDamage: 1
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
