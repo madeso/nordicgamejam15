@@ -2,15 +2,19 @@
 using System.Collections;
 
 public class CameraShake : MonoBehaviour {
-	private Vector3 start;
+	// public variable, left at private to avoid touching the player
+	public float ShakeMagnitude = 0.025f;
 
+	private float initialAudioVolume = 0.5f;
+	private Vector3 cameraPosition;
 	private Pickup pickupComponent;
 
 	private const float AUDIO_LIMIT = 0.1f;
 
 	// Use this for initialization
 	void Start () {
-		this.start = this.camera.transform.position;
+		this.initialAudioVolume = this.audio.volume;
+		// this.maxAudio = 0.5f;
 
 		this.pickupComponent = this.gameObject.GetComponent<Pickup>();
 		if( this.pickupComponent == null ) {
@@ -19,31 +23,31 @@ public class CameraShake : MonoBehaviour {
 	}
 
 	void OnPreRender() {
-		this.start = this.camera.transform.position;
+		this.cameraPosition = this.camera.transform.position;
 
-		float throwing = this.pickupComponent != null ? this.pickupComponent.ThrowPercentage : -1;
+		float throwingPercentage = this.pickupComponent != null ? this.pickupComponent.ThrowPercentage : -1;
 
-		if( throwing > 0 ) {
-			this.camera.transform.position = start + new Vector3(R() * throwing, R() * throwing, R() * throwing);
-			this.audio.volume = throwing;
+		if( throwingPercentage > 0 ) {
+			this.camera.transform.position = cameraPosition + new Vector3(Rm() * throwingPercentage, Rm() * throwingPercentage, Rm() * throwingPercentage);
+			this.audio.volume = throwingPercentage * this.initialAudioVolume;
 		}
 
-		if( throwing > AUDIO_LIMIT && this.audio.isPlaying == false ) {
+		// start & stop audio
+		if( throwingPercentage > AUDIO_LIMIT && this.audio.isPlaying == false ) {
 			this.audio.Play();
 		}
-		if( throwing < AUDIO_LIMIT && this.audio.isPlaying ) {
+		if( throwingPercentage < AUDIO_LIMIT && this.audio.isPlaying ) {
 			this.audio.Stop();
 		}
 	}
 	
 	// Update is called once per frame
 	void OnPostRender() {
-		this.camera.transform.position = start;
+		this.camera.transform.position = cameraPosition;
 	}
 
-	private const float M = 0.1f;
-
-	private static float R() {
-		return Random.Range(-M, M);
+	// random shake magnitude
+	private float Rm() {
+		return Random.Range(-ShakeMagnitude, ShakeMagnitude);
 	}
 }
