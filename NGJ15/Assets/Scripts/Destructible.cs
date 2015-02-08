@@ -24,11 +24,21 @@ public class Destructible : MonoBehaviour {
 		}
 	}
 
+	private void StopFlames () {
+		var flames = this.GetComponent<Flamable>();
+		if( flames != null ) {
+			// Debug.Log(string.Format("{0}: stopping flames", this.gameObject.name));
+			flames.StopBurningPlease();
+		}
+	}
+
 	public void Hurt(float dmg) {
 		this.Hitpoints -= dmg;
 		
-		Debug.Log(string.Format("{0}: got {1} dmg", this.gameObject.name, dmg));
+		// Debug.Log(string.Format("{0}: got {1} dmg", this.gameObject.name, dmg));
 		if(this.Hitpoints <= 0.0) {
+			Debug.Log(string.Format("{0}: died", this.gameObject.name));
+			this.StopFlames();
 			Destroy(this.gameObject);
 			// todo: spawn destroyed game object
 			foreach(var p in this.Parts) {

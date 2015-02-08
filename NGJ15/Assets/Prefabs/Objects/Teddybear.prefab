@@ -203,6 +203,39 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 4300000, guid: edb6bfcdab2b5cc49887dfe2d318e67f, type: 3}
+<<<<<<< HEAD
+=======
+--- !u!64 &6453078
+MeshCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145444}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_SmoothSphereCollisions: 0
+  m_Convex: 0
+  m_Mesh: {fileID: 4300002, guid: edb6bfcdab2b5cc49887dfe2d318e67f, type: 3}
+--- !u!114 &11414300
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 145444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FlameTimer: 0
+  CoalColor: {r: 0, g: 0, b: 0, a: 1}
+  SecondsToCoal: 3
+  BurnDamage: 1
+  SecondsBetweenDamage: 1
+  prefabFire: {fileID: 0}
+>>>>>>> origin/master
 --- !u!114 &11494746
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -247,6 +280,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
+  prefabFire: {fileID: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
