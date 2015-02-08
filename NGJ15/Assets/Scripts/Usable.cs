@@ -9,4 +9,12 @@ public class Usable : Things {
 			return string.IsNullOrEmpty(this.Name) ? this.gameObject.name : this.Name;
 		}
 	}
+
+	void OnCollisionEnter(Collision other)
+	{
+		if (other.transform.name == "walls")
+		{
+			this.rigidbody.velocity = Vector3.zero;	
+		}
+	}
 }
