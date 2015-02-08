@@ -1,51 +1,50 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &162662
+--- !u!1 &134956
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 4
   m_Component:
-  - 4: {fileID: 462662}
-  - 33: {fileID: 3362662}
-  - 23: {fileID: 2362662}
-  - 114: {fileID: 11462660}
-  - 114: {fileID: 11462662}
-  - 54: {fileID: 5462662}
-  - 64: {fileID: 6462662}
+  - 4: {fileID: 434956}
+  - 33: {fileID: 3334956}
+  - 23: {fileID: 2334956}
+  - 65: {fileID: 6534956}
+  - 54: {fileID: 5434956}
+  - 114: {fileID: 11434956}
   m_Layer: 0
-  m_Name: Bottle
+  m_Name: nail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &462662
+--- !u!4 &434956
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
-  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0, y: 0, z: 0}
-  m_LocalScale: {x: 10, y: 25, z: 10}
+  m_GameObject: {fileID: 134956}
+  m_LocalRotation: {x: 0, y: 0, z: .702805817, w: .711381853}
+  m_LocalPosition: {x: 1.58200002, y: .976000011, z: 2.82399988}
+  m_LocalScale: {x: .888126254, y: .888126254, z: .888126254}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
---- !u!23 &2362662
+--- !u!23 &2334956
 Renderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
+  m_GameObject: {fileID: 134956}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_LightmapIndex: 255
   m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
   m_Materials:
-  - {fileID: 2100000, guid: 04a0076a4eb92de41892809a59db17cb, type: 2}
+  - {fileID: 2100000, guid: 36ba1cf7d71467347afb1fba14927afc, type: 2}
   m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_UseLightProbes: 0
@@ -53,19 +52,19 @@ Renderer:
   m_ScaleInLightmap: 1
   m_SortingLayerID: 0
   m_SortingOrder: 0
---- !u!33 &3362662
+--- !u!33 &3334956
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
-  m_Mesh: {fileID: 4300000, guid: e7c211c3092fb974aaa9ef71354c4552, type: 3}
---- !u!54 &5462662
+  m_GameObject: {fileID: 134956}
+  m_Mesh: {fileID: 4300000, guid: ebb850068530d65449a0c5e3dc21c6e5, type: 3}
+--- !u!54 &5434956
 Rigidbody:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
+  m_GameObject: {fileID: 134956}
   serializedVersion: 2
   m_Mass: 1
   m_Drag: 0
@@ -74,48 +73,32 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 1
---- !u!64 &6462662
-MeshCollider:
+  m_CollisionDetection: 0
+--- !u!65 &6534956
+BoxCollider:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
+  m_GameObject: {fileID: 134956}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_SmoothSphereCollisions: 0
-  m_Convex: 0
-  m_Mesh: {fileID: 4300000, guid: e7c211c3092fb974aaa9ef71354c4552, type: 3}
---- !u!114 &11462660
+  m_Size: {x: .0282842796, y: .0962338597, z: .0282842703}
+  m_Center: {x: 1.19295947e-07, y: -.0465229265, z: 0}
+--- !u!114 &11434956
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
+  m_GameObject: {fileID: 134956}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 286483ecdf744784f8c6a9407f35a752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 0}
-  Name: Bottle
---- !u!114 &11462662
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 162662}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0d3d98370c6e64624ac254e9981a12b7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Hitpoints: 5
-  Parts:
-  - {fileID: 194428, guid: 02db5fad58c7a5647adcfc05be33e768, type: 2}
-  Fragility: 0
+  Name: 
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
@@ -125,6 +108,6 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 162662}
+  m_RootGameObject: {fileID: 134956}
   m_IsPrefabParent: 1
   m_IsExploded: 1
