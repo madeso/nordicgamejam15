@@ -10,7 +10,7 @@ GameObject:
   - 4: {fileID: 401250}
   - 198: {fileID: 19801250}
   - 199: {fileID: 19901250}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Fireemitter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26,7 +26,7 @@ GameObject:
   m_Component:
   - 4: {fileID: 401252}
   - 108: {fileID: 10801250}
-  m_Layer: 0
+  m_Layer: 2
   m_Name: Point light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8722,7 +8722,7 @@ Renderer:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 101254}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_LightmapIndex: 255
@@ -14036,7 +14036,7 @@ Light:
   serializedVersion: 3
   m_Type: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 0
+  m_Intensity: .200000003
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10

@@ -65,7 +65,7 @@ public class Pickup : MonoBehaviour {
 				hit.transform.parent = hand.transform; // move in as a child of hand
 				hit.transform.localPosition = Vector3.zero;
 				item = hand.transform.GetChild(0).gameObject;   // the object
-				hit.rigidbody.constraints = RigidbodyConstraints.FreezeRotation; // freez rotation and position of the rigidbody
+				hit.rigidbody.constraints = RigidbodyConstraints.FreezeAll; // freez rotation and position of the rigidbody
 				hit.rigidbody.useGravity = false;  // disable gravity so that we can lift it
 				Physics.IgnoreCollision(item.collider, this.transform.parent.collider, true);
 				}
