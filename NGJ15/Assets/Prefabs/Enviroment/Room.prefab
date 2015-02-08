@@ -4964,6 +4964,25 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &177764
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 477764}
+  - 33: {fileID: 3377764}
+  - 23: {fileID: 2377764}
+  - 54: {fileID: 5477764}
+  - 108: {fileID: 10877764}
+  m_Layer: 0
+  m_Name: Ring
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
 --- !u!4 &401250
 Transform:
   m_ObjectHideFlags: 1
@@ -8747,6 +8766,7 @@ Transform:
   - {fileID: 466422}
   - {fileID: 456324}
   - {fileID: 456322}
+  - {fileID: 477764}
   m_Father: {fileID: 448138}
   m_RootOrder: 4
 --- !u!4 &448138
@@ -8863,6 +8883,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 448132}
   m_RootOrder: 6
+--- !u!4 &477764
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177764}
+  m_LocalRotation: {x: 0, y: 0, z: .707106829, w: .707106829}
+  m_LocalPosition: {x: -.00369977951, y: 1.24919999, z: -.749899983}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 448132}
+  m_RootOrder: 9
 --- !u!23 &2301250
 Renderer:
   m_ObjectHideFlags: 1
@@ -11188,6 +11220,26 @@ Renderer:
   m_ScaleInLightmap: 1
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!23 &2377764
+Renderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177764}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_LightmapIndex: 255
+  m_LightmapTilingOffset: {x: 1, y: 1, z: 0, w: 0}
+  m_Materials:
+  - {fileID: 2100000, guid: 4371f256e051a2a45807798fc22af42c, type: 2}
+  m_SubsetIndices: 
+  m_StaticBatchRoot: {fileID: 0}
+  m_UseLightProbes: 0
+  m_LightProbeAnchor: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
 --- !u!23 &2397376
 Renderer:
   m_ObjectHideFlags: 1
@@ -12012,6 +12064,13 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 166422}
   m_Mesh: {fileID: 4300000, guid: 8912cf5401e8b1049b3ef3de93477ee2, type: 3}
+--- !u!33 &3377764
+MeshFilter:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177764}
+  m_Mesh: {fileID: 4300000, guid: 775eba44bc29a9949aed4c9d36b8715c, type: 3}
 --- !u!33 &3397376
 MeshFilter:
   m_ObjectHideFlags: 1
@@ -12026,6 +12085,21 @@ MeshFilter:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 148124}
   m_Mesh: {fileID: 4300000, guid: 7ddf9209779c6a74a9ee0a67c1cda88b, type: 3}
+--- !u!54 &5477764
+Rigidbody:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177764}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: .0500000007
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
 --- !u!64 &6403304
 MeshCollider:
   m_ObjectHideFlags: 1
@@ -14880,6 +14954,41 @@ Light:
   m_ShadowAngle: 0
   m_IndirectIntensity: 1
   m_AreaSize: {x: 1, y: 1}
+--- !u!108 &10877764
+Light:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177764}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Type: 2
+  m_Color: {r: 0, g: .958620548, b: 1, a: 1}
+  m_Intensity: 1
+  m_Range: .100000001
+  m_SpotAngle: 30
+  m_CookieSize: 10
+  m_Shadows:
+    m_Type: 0
+    m_Resolution: -1
+    m_Strength: 1
+    m_Bias: .0500000007
+    m_Softness: 4
+    m_SoftnessFade: 1
+  m_Cookie: {fileID: 0}
+  m_DrawHalo: 0
+  m_ActuallyLightmapped: 0
+  m_Flare: {fileID: 0}
+  m_RenderMode: 0
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_Lightmapping: 1
+  m_ShadowSamples: 1
+  m_ShadowRadius: 0
+  m_ShadowAngle: 0
+  m_IndirectIntensity: 1
+  m_AreaSize: {x: 1, y: 1}
 --- !u!114 &11401250
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -15070,6 +15179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83b702fd3a2d91c4c9d49e243329df0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToShow: {fileID: 177764}
 --- !u!114 &11426020
 MonoBehaviour:
   m_ObjectHideFlags: 1
