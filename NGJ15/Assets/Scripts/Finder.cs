@@ -16,7 +16,7 @@ public class Finder : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
-		if(this.transform.parent != null)
+		if(!this.transform.rigidbody.useGravity)
 		{
 			if(this.transform.parent.name == "Hand")
 			{
