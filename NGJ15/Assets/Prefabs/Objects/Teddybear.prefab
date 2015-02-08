@@ -248,7 +248,7 @@ MonoBehaviour:
   Hitpoints: 5
   Parts:
   - {fileID: 130544, guid: 059b0e5a8a363d442a11b1f686082d46, type: 2}
-  Fragility: 30
+  Fragility: 500
 --- !u!114 &11494748
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -261,7 +261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip: {fileID: 0}
-  Name: 
+  Name: a teddybear
 --- !u!114 &11494750
 MonoBehaviour:
   m_ObjectHideFlags: 1

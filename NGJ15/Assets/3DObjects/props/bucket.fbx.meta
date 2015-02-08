@@ -45,10 +45,13 @@ ModelImporter:
     400038: transform8
     2300000: bucket 1
     2300002: bucketHandle
+    2300004: //RootNode
     3300000: bucket 1
     3300002: bucketHandle
+    3300004: //RootNode
     4300000: bucketHandle
     4300002: bucket
+    4300004: bucket1
     9500000: //RootNode
   materials:
     importMaterials: 1

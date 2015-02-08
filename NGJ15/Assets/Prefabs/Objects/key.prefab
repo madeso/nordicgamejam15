@@ -213,7 +213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Hitpoints: 5
   Parts: []
-  Fragility: 30
+  Fragility: 501
 --- !u!114 &11460778
 MonoBehaviour:
   m_ObjectHideFlags: 1
