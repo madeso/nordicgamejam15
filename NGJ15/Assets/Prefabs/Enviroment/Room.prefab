@@ -118,6 +118,7 @@ GameObject:
   - 65: {fileID: 6536790}
   - 65: {fileID: 6536792}
   - 65: {fileID: 6536794}
+  - 65: {fileID: 6562698}
   m_Layer: 0
   m_Name: shelfBooksBig
   m_TagString: Untagged
@@ -4956,7 +4957,6 @@ GameObject:
   - 4: {fileID: 466422}
   - 33: {fileID: 3366422}
   - 23: {fileID: 2366422}
-  - 95: {fileID: 9566422}
   m_Layer: 0
   m_Name: ringHolePlate
   m_TagString: Untagged
@@ -12948,8 +12948,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: .750370681, y: .0688931942, z: .36056754}
-  m_Center: {x: .000370621099, y: .310818315, z: -.00528335618}
+  m_Size: {x: .750370681, y: .0745632648, z: .36056754}
+  m_Center: {x: .000370621099, y: .31365335, z: -.00528335618}
 --- !u!65 &6536794
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -13166,6 +13166,18 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: .0478576757, y: .760993242, z: .061031729}
   m_Center: {x: -.794341922, y: .380496621, z: -.000103121864}
+--- !u!65 &6562698
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 103310}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: .960000217, y: 2.06999993, z: .0482442714}
+  m_Center: {x: 1.79861672e-08, y: 0, z: .150878921}
 --- !u!65 &6566396
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -13284,8 +13296,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.27690494, y: .110762596, z: .744861305}
-  m_Center: {x: -.398652047, y: .721254706, z: .240816131}
+  m_Size: {x: 1.27690494, y: .103638478, z: .744861305}
+  m_Center: {x: -.398652047, y: .717693031, z: .240816131}
 --- !u!65 &6597368
 BoxCollider:
   m_ObjectHideFlags: 1
@@ -14792,21 +14804,6 @@ Animator:
   m_GameObject: {fileID: 166420}
   m_Enabled: 1
   m_Avatar: {fileID: 9000000, guid: 5be1f7bfc46bacf4e80ed50e0d06da19, type: 3}
-  m_Controller: {fileID: 0}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 1
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
---- !u!95 &9566422
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 166422}
-  m_Enabled: 1
-  m_Avatar: {fileID: 9000000, guid: 8912cf5401e8b1049b3ef3de93477ee2, type: 3}
   m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
