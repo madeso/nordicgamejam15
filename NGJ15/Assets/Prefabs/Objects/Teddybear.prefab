@@ -234,6 +234,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
+  prefabFire: {fileID: 0}
 --- !u!114 &11494746
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -278,6 +279,7 @@ MonoBehaviour:
   SecondsToCoal: 3
   BurnDamage: 1
   SecondsBetweenDamage: 1
+  prefabFire: {fileID: 0}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1
