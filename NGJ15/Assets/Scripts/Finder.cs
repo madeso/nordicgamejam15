@@ -11,14 +11,15 @@ public class Finder : MonoBehaviour {
 	void Start()
 	{
 		torch = this.GetComponentInChildren<Light>();
+		torch.enabled = true;
 	}
 
 	// Update is called once per frame
 	void Update () {
 	
-		if(!this.transform.rigidbody.useGravity)
-		{
-			torch.enabled = true;
+		//if(!this.transform.rigidbody.useGravity)
+		//{
+			//torch.enabled = true;
 
 			RaycastHit hit;
 			if (Physics.Raycast(transform.position, this.transform.up, out hit, lightDistance)) // sends a ray to find any object
@@ -32,4 +33,4 @@ public class Finder : MonoBehaviour {
 		}
 
 	}
-}
+//}
