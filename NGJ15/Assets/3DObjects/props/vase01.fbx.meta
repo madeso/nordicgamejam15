@@ -1,35 +1,13 @@
 fileFormatVersion: 2
-guid: 247ad4ae764193c4eaff17e8c94ce2f7
+guid: 7123d17dfc277d0459890ff2fb047a82
 ModelImporter:
   serializedVersion: 16
   fileIDToRecycleName:
     100000: //RootNode
-    100002: vase3Shard1
-    100004: vase3Shard2
-    100006: vase3Shard3
-    100008: vase3Shard4
-    100010: vase3Shard5
     400000: //RootNode
-    400002: vase3Shard1
-    400004: vase3Shard2
-    400006: vase3Shard3
-    400008: vase3Shard4
-    400010: vase3Shard5
-    2300000: vase3Shard1
-    2300002: vase3Shard2
-    2300004: vase3Shard3
-    2300006: vase3Shard4
-    2300008: vase3Shard5
-    3300000: vase3Shard1
-    3300002: vase3Shard2
-    3300004: vase3Shard3
-    3300006: vase3Shard4
-    3300008: vase3Shard5
-    4300000: vase3Shard1
-    4300002: vase3Shard2
-    4300004: vase3Shard3
-    4300006: vase3Shard4
-    4300008: vase3Shard5
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: vase01
     9500000: //RootNode
   materials:
     importMaterials: 1

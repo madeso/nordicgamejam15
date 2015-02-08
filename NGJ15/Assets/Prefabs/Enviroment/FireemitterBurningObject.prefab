@@ -52,7 +52,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 120346}
   m_LocalRotation: {x: -.707106829, y: 0, z: 0, w: .707106829}
-  m_LocalPosition: {x: -.907000005, y: .583000004, z: -.474000007}
+  m_LocalPosition: {x: 4.43002176, y: 1.19043911, z: -2.41618872}
   m_LocalScale: {x: .163690373, y: .267649353, z: .00517087895}
   m_Children:
   - {fileID: 420344}
@@ -103,7 +103,7 @@ ParticleSystem:
   startDelay: 0
   speed: 1
   randomSeed: 0
-  looping: 0
+  looping: 1
   prewarm: 0
   playOnAwake: 1
   moveWithTransform: 1
