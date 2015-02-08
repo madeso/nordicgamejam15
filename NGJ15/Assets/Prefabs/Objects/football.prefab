@@ -10,8 +10,6 @@ GameObject:
   - 4: {fileID: 488326}
   - 33: {fileID: 3388326}
   - 23: {fileID: 2388326}
-  - 64: {fileID: 6460416}
-  - 114: {fileID: 11457436}
   m_Layer: 0
   m_Name: footballStiches
   m_TagString: Untagged
@@ -59,8 +57,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 188328}
-  m_LocalRotation: {x: .0439657383, y: -.627570927, z: -.758167386, w: .171476141}
-  m_LocalPosition: {x: -4.829, y: 1.41799998, z: -.786000013}
+  m_LocalRotation: {x: .0287172552, y: -.691806912, z: -.700047314, w: .174677938}
+  m_LocalPosition: {x: -4.87239981, y: 1.4138, z: -.801999986}
   m_LocalScale: {x: 1, y: 1.96171343, z: 1}
   m_Children:
   - {fileID: 488326}
@@ -148,19 +146,6 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 4300000, guid: 81d21d4b675d43a42928f0804591f3f0, type: 3}
---- !u!64 &6460416
-MeshCollider:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 188326}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_SmoothSphereCollisions: 0
-  m_Convex: 0
-  m_Mesh: {fileID: 4300002, guid: 81d21d4b675d43a42928f0804591f3f0, type: 3}
 --- !u!114 &11432472
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -189,22 +174,6 @@ MonoBehaviour:
   Parts:
   - {fileID: 132898, guid: c460ae1c2bbb30243a57f62963bd34e2, type: 2}
   Fragility: 0
---- !u!114 &11457436
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 188326}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e87bedfc64e824b63926abf9fa71f0d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  FlameTimer: 0
-  CoalColor: {r: 0, g: 0, b: 0, a: 1}
-  SecondsToCoal: 3
-  BurnDamage: 1
-  SecondsBetweenDamage: 1
 --- !u!114 &11465954
 MonoBehaviour:
   m_ObjectHideFlags: 1
