@@ -62,7 +62,7 @@ public class Destructible : MonoBehaviour {
 			// http://answers.unity3d.com/questions/201823/how-to-implement-if-hit-with-certain-force.html
 			var otherMass = col.rigidbody != null ? col.rigidbody.mass : 10;
 			var force = otherMass * col.relativeVelocity;
-			Debug.Log(string.Format("{0}: hit force was {1}", this.gameObject.name, force.magnitude));
+//			Debug.Log(string.Format("{0}: hit force was {1}", this.gameObject.name, force.magnitude));
 			if( force.sqrMagnitude < this.Fragility * this.Fragility ) {
 				// not enough force...
 				return;

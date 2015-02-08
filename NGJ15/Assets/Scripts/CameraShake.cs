@@ -34,10 +34,10 @@ public class CameraShake : MonoBehaviour {
 
 		// start & stop audio
 		if( throwingPercentage > AUDIO_LIMIT && this.audio.isPlaying == false ) {
-			this.audio.Play();
+//			this.audio.Play();
 		}
 		if( throwingPercentage < AUDIO_LIMIT && this.audio.isPlaying ) {
-			this.audio.Stop();
+//			this.audio.Stop();
 		}
 	}
 	

@@ -2,9 +2,8 @@
 using System.Collections;
 
 public class Things : MonoBehaviour {
-	
-	[SerializeField]
-	AudioClip clip; //the sound to play.
+
+	public AudioClip clip; //the sound to play.
 
 	private GameObject player;
 
@@ -12,10 +11,12 @@ public class Things : MonoBehaviour {
 		player = GameObject.FindWithTag ("Player").gameObject;
 	}
 
-	void HitSound(AudioClip sound)
+	public void HitSound(AudioClip sound)
 	{
-		if(clip != null)
-		player.audio.PlayOneShot (clip, 1.0f);
+		if (sound != null && !player.audio.isPlaying) {
+			player.audio.PlayOneShot (clip, 0.5f);
+			Debug.Log (sound.name);
+				}
 	}
 
 	void OnCollisionEnter(Collision other)

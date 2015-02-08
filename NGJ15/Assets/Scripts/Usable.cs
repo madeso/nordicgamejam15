@@ -12,9 +12,8 @@ public class Usable : Things {
 
 	void OnCollisionEnter(Collision other)
 	{
-		if (other.transform.name == "walls")
-		{
-			this.rigidbody.velocity = Vector3.zero;	
-		}
+		if(other.rigidbody != null)
+		if(other.rigidbody.velocity.magnitude > 1 && clip != null)
+		this.HitSound (clip);
 	}
 }
